@@ -1,26 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T08:20:52.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="S-y8kmR8SSChL4gWFV0j" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T08:46:43.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lRRnN0bqGz7b6vh6Tl7S" version="16.0.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-DomMB3YcxF8r1uj53os-1" value="DLR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="-DomMB3YcxF8r1uj53os-1" value="支援案件前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="40" width="100" height="1450" as="geometry" />
         </mxCell>
-        <mxCell id="-DomMB3YcxF8r1uj53os-2" value="GTMC技术支援" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="40" width="100" height="2220" as="geometry" />
+        <mxCell id="-DomMB3YcxF8r1uj53os-2" value="支援案件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="40" width="100" height="2220" as="geometry" />
         </mxCell>
-        <mxCell id="-DomMB3YcxF8r1uj53os-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-DomMB3YcxF8r1uj53os-2">
+        <mxCell id="-DomMB3YcxF8r1uj53os-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="-DomMB3YcxF8r1uj53os-2" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-DomMB3YcxF8r1uj53os-4" value="1.经销商基于工单创建初期品质案件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="-DomMB3YcxF8r1uj53os-3" parent="1">
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-DomMB3YcxF8r1uj53os-2">
+          <mxGeometry x="45" y="200" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-DomMB3YcxF8r1uj53os-2">
+          <mxGeometry x="45" y="310" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-5" value="3.EDER对应组维护" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="-DomMB3YcxF8r1uj53os-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-339" y="310" as="sourcePoint" />
+            <mxPoint x="46" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-6" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="-DomMB3YcxF8r1uj53os-2" source="bc0Wb0VDrXtly-Lzhkzi-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340.5" y="357.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-DomMB3YcxF8r1uj53os-2">
+          <mxGeometry x="45" y="420" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-8" value="4.EDER对应室长维护" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="-DomMB3YcxF8r1uj53os-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-339" y="420" as="sourcePoint" />
+            <mxPoint x="46" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-9" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="-DomMB3YcxF8r1uj53os-2" source="bc0Wb0VDrXtly-Lzhkzi-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340.5" y="467.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-DomMB3YcxF8r1uj53os-2">
+          <mxGeometry x="45" y="510" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-11" value="5.EDER对应助手店维护" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="-DomMB3YcxF8r1uj53os-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-339" y="510" as="sourcePoint" />
+            <mxPoint x="46" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-12" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="-DomMB3YcxF8r1uj53os-2" source="bc0Wb0VDrXtly-Lzhkzi-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340.5" y="557.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-DomMB3YcxF8r1uj53os-4" value="1.经销商基于工单创建初期品质案件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" target="-DomMB3YcxF8r1uj53os-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-DomMB3YcxF8r1uj53os-5" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="-DomMB3YcxF8r1uj53os-3" parent="1" target="-DomMB3YcxF8r1uj53os-1">
+        <mxCell id="-DomMB3YcxF8r1uj53os-5" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" parent="1" source="-DomMB3YcxF8r1uj53os-3" target="-DomMB3YcxF8r1uj53os-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-2" value="2.EDER对FTE区域维护" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="bc0Wb0VDrXtly-Lzhkzi-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bc0Wb0VDrXtly-Lzhkzi-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="bc0Wb0VDrXtly-Lzhkzi-1" parent="1" target="-DomMB3YcxF8r1uj53os-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="316" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
