@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T07:23:32.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="XZbFdvc46esiTUMFHvsk" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T08:21:42.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kPxlFgAUJFoYmrbgmC-K" version="16.0.3" type="github">
   <diagram id="LTZaRkjIgqrhDiBjfFHh" name="Page-1">
-    <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K7m6DBJdFJsLByfViQcE-1" value="工单" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="K7m6DBJdFJsLByfViQcE-1" value="工单" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="70" y="190" width="180" height="330" as="geometry" />
         </mxCell>
         <mxCell id="K7m6DBJdFJsLByfViQcE-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="K7m6DBJdFJsLByfViQcE-1" vertex="1">
@@ -137,7 +137,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K7m6DBJdFJsLByfViQcE-14" value="DTR信息" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="1" vertex="1">
+        <mxCell id="K7m6DBJdFJsLByfViQcE-14" value="DTR信息" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="10" width="180" height="520" as="geometry" />
         </mxCell>
         <mxCell id="K7m6DBJdFJsLByfViQcE-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="K7m6DBJdFJsLByfViQcE-14" vertex="1">
@@ -348,7 +348,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K7m6DBJdFJsLByfViQcE-302" value="担当配置" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="K7m6DBJdFJsLByfViQcE-302" value="担当配置" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="300" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="K7m6DBJdFJsLByfViQcE-309" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" parent="K7m6DBJdFJsLByfViQcE-302" vertex="1">
@@ -403,7 +403,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K7m6DBJdFJsLByfViQcE-315" value="机能" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="K7m6DBJdFJsLByfViQcE-315" value="机能" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="500" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uBc-1Ag6-pTofKckBdfR-53" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="K7m6DBJdFJsLByfViQcE-315">
@@ -458,8 +458,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K7m6DBJdFJsLByfViQcE-328" value="车型" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="800" y="410" width="180" height="100" as="geometry" />
+        <mxCell id="K7m6DBJdFJsLByfViQcE-328" value="车型" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="420" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uBc-1Ag6-pTofKckBdfR-47" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="K7m6DBJdFJsLByfViQcE-328">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -487,7 +487,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K7m6DBJdFJsLByfViQcE-341" value="区域" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="K7m6DBJdFJsLByfViQcE-341" value="区域" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="310" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uBc-1Ag6-pTofKckBdfR-44" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;" vertex="1" parent="K7m6DBJdFJsLByfViQcE-341">
@@ -546,7 +546,7 @@
             <mxPoint x="300" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uBc-1Ag6-pTofKckBdfR-20" value="零件" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="uBc-1Ag6-pTofKckBdfR-20" value="零件" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="550" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uBc-1Ag6-pTofKckBdfR-56" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uBc-1Ag6-pTofKckBdfR-20">
