@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T06:34:19.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SF6z8H3uReg98ER299-D" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T08:58:29.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="52GsuWnP2VFs9k1qMNlD" version="16.0.3" type="github">
   <diagram id="UXoUPtAeHOVSdncbpQZQ" name="Page-1">
-    <mxGraphModel dx="1966" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="0pjadvOdGxTtpfprGWlY-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PIPFyShP-Cy4KktQ9gSj-4">
           <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-6" value="2.EDER维护机能与零件关系" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="PIPFyShP-Cy4KktQ9gSj-4">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-6" value="2.EDER修改机能与零件关系()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="PIPFyShP-Cy4KktQ9gSj-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-180" y="160" as="sourcePoint" />
             <mxPoint x="49.5" y="160" as="targetPoint" />
@@ -40,7 +40,7 @@
         <mxCell id="0pjadvOdGxTtpfprGWlY-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PIPFyShP-Cy4KktQ9gSj-4">
           <mxGeometry x="45" y="230" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-9" value="3.EDER维护零件数据" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="PIPFyShP-Cy4KktQ9gSj-4">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-9" value="3.EDER修改零件数据()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="PIPFyShP-Cy4KktQ9gSj-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-179" y="230" as="sourcePoint" />
             <mxPoint x="50.5" y="230" as="targetPoint" />
@@ -61,7 +61,7 @@
         <mxCell id="0pjadvOdGxTtpfprGWlY-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PIPFyShP-Cy4KktQ9gSj-4">
           <mxGeometry x="45" y="790" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-36" value="8.销售店发起申诉" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="PIPFyShP-Cy4KktQ9gSj-4" target="0pjadvOdGxTtpfprGWlY-35">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-36" value="8.销售店发起申诉()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="PIPFyShP-Cy4KktQ9gSj-4" target="0pjadvOdGxTtpfprGWlY-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-180" y="790" as="sourcePoint" />
           </mxGeometry>
@@ -189,6 +189,9 @@
         <mxCell id="0pjadvOdGxTtpfprGWlY-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PIPFyShP-Cy4KktQ9gSj-5">
           <mxGeometry x="45" y="790" width="10" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0pjadvOdGxTtpfprGWlY-80" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PIPFyShP-Cy4KktQ9gSj-5">
+          <mxGeometry x="45" y="880" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="PIPFyShP-Cy4KktQ9gSj-6" value="FTR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="580" width="100" height="980" as="geometry" />
         </mxCell>
@@ -207,7 +210,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-2" value="1.EDER维护FTE与机能关系" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" target="PIPFyShP-Cy4KktQ9gSj-4" parent="1">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-2" value="1.EDER修改FTE与机能关系()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" target="PIPFyShP-Cy4KktQ9gSj-4" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="660" as="sourcePoint" />
           </mxGeometry>
@@ -217,7 +220,7 @@
             <mxPoint x="110" y="698" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-14" value="4.EDER维护简易DTR公告" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-13" parent="1" source="PIPFyShP-Cy4KktQ9gSj-5">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-14" value="4.EDER新建简易DTR公告()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-13" parent="1" source="PIPFyShP-Cy4KktQ9gSj-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="930" as="sourcePoint" />
           </mxGeometry>
@@ -227,7 +230,7 @@
             <mxPoint x="120" y="938" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-17" value="5.销售店基于工单生成DTR" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-16" parent="1">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-17" value="5.销售店基于工单生成DTR()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-16" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="990" as="sourcePoint" />
           </mxGeometry>
@@ -245,7 +248,7 @@
             <mxPoint x="290" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-24" value="6.EDER处理DTR" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-23" parent="1" source="PIPFyShP-Cy4KktQ9gSj-5">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-24" value="6.EDER处理DTR()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-23" parent="1" source="PIPFyShP-Cy4KktQ9gSj-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="99.5" y="1169" as="sourcePoint" />
           </mxGeometry>
@@ -255,7 +258,7 @@
             <mxPoint x="99.5" y="1216.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-33" value="7.销售店重新上报DTR" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-32" parent="1">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-33" value="7.销售店重新上报DTR()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-32" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="1290" as="sourcePoint" />
           </mxGeometry>
@@ -265,13 +268,8 @@
             <mxPoint x="100" y="1366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-40" value="9.EDER将通过的DTR作成FTR提供给FTR使用，不需要返回" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-39" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="1460" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0pjadvOdGxTtpfprGWlY-41" value="DTR管理" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="520" width="940" height="1030" as="geometry" />
+          <mxGeometry x="940" y="530" width="940" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="0pjadvOdGxTtpfprGWlY-7" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;entryX=0.987;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0pjadvOdGxTtpfprGWlY-5" target="0pjadvOdGxTtpfprGWlY-54">
           <mxGeometry relative="1" as="geometry">
@@ -288,7 +286,7 @@
             <mxPoint x="99.5" y="1408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0pjadvOdGxTtpfprGWlY-29" value="6.1EDER新建议案" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;entryX=-0.038;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-28" parent="1">
+        <mxCell id="0pjadvOdGxTtpfprGWlY-29" value="6.1EDER新建议案()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;entryX=-0.038;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="0pjadvOdGxTtpfprGWlY-28" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="1111" as="sourcePoint" />
             <Array as="points" />
@@ -306,6 +304,26 @@
         <mxCell id="0pjadvOdGxTtpfprGWlY-70" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="0pjadvOdGxTtpfprGWlY-69" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0pjadvOdGxTtpfprGWlY-77" value="&lt;div&gt;&lt;span style=&quot;font-size: 6.104pt&quot;&gt;若该FTR创建成功，则此DTR处理页中的DTR自动执行通过处理。&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1360" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0pjadvOdGxTtpfprGWlY-78" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="0pjadvOdGxTtpfprGWlY-77" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0pjadvOdGxTtpfprGWlY-79" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1;entryY=0.894;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0pjadvOdGxTtpfprGWlY-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="1530" as="sourcePoint" />
+            <mxPoint x="730" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0pjadvOdGxTtpfprGWlY-81" value="9.制作FTR（）" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="PIPFyShP-Cy4KktQ9gSj-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="100" y="1460" as="sourcePoint" />
+            <mxPoint x="180" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
