@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T02:12:13.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ltrdi3LNXKoBWpM7xhwe" version="16.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-26T02:13:26.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Jl4N0TiPBaMc_XXjIc9v" version="16.0.3" type="github" pages="3">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-DomMB3YcxF8r1uj53os-1" value="支援案件前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="40" width="100" height="1450" as="geometry" />
+          <mxGeometry x="70" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="-DomMB3YcxF8r1uj53os-2" value="支援案件" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="460" y="40" width="100" height="2220" as="geometry" />
+          <mxGeometry x="460" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="-DomMB3YcxF8r1uj53os-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="-DomMB3YcxF8r1uj53os-2" vertex="1">
           <mxGeometry x="45" y="530" width="10" height="40" as="geometry" />
@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6ivPPV-w7pxuh_DMjr_w-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-DomMB3YcxF8r1uj53os-2">
-          <mxGeometry x="45" y="850" width="10" height="150" as="geometry" />
+          <mxGeometry x="45" y="850" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6ivPPV-w7pxuh_DMjr_w-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="-DomMB3YcxF8r1uj53os-2">
           <mxGeometry x="55" y="870" width="10" height="40" as="geometry" />
