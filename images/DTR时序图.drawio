@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T06:48:35.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Wv45_4TXTU9lylcsKsi6" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-03T06:50:19.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lY4MqkyKw4yCkfBHxS2T" version="16.1.0" type="github" pages="2">
   <diagram id="UXoUPtAeHOVSdncbpQZQ" name="Page-1">
     <mxGraphModel dx="1216" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
-    <mxGraphModel dx="2128" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3616" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IoVDs216V9Fv6QdhzG9g-0" />
         <mxCell id="IoVDs216V9Fv6QdhzG9g-1" parent="IoVDs216V9Fv6QdhzG9g-0" />
@@ -826,7 +826,7 @@
             <mxPoint x="90" y="2090" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-122" value="&lt;div style=&quot;text-align: left&quot;&gt;议案必须关联，状态必须是已通过的案件才可以发起制作DTR，无需返回&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+        <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-122" value="&lt;div style=&quot;text-align: left&quot;&gt;议案必须关联，状态必须是已通过的案件才可以发起制作FTR，无需返回&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
           <mxGeometry x="190" y="2100" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-55" value="简易DTR" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
@@ -842,7 +842,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-126" value="DTR管理" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
-          <mxGeometry x="-80" width="1380" height="2270" as="geometry" />
+          <mxGeometry x="-60" width="1330" height="2240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
