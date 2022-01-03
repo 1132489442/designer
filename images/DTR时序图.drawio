@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T06:56:15.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cXCTo0VtB32eHAbWKIAb" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-03T06:59:54.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Qw3A7Xnh5rOnbRbvvIAX" version="16.1.0" type="github" pages="2">
   <diagram id="UXoUPtAeHOVSdncbpQZQ" name="Page-1">
     <mxGraphModel dx="1216" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -830,7 +830,7 @@
           <mxGeometry x="20" y="710" width="730" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-127" value="简易DTR" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
-          <mxGeometry x="20" y="910" width="730" height="1290" as="geometry" />
+          <mxGeometry x="20" y="910" width="730" height="1110" as="geometry" />
         </mxCell>
         <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-128" value="不符合DTR公告的，全部为普通DTR" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
           <mxGeometry x="800" y="930" width="220" height="50" as="geometry" />
@@ -841,7 +841,7 @@
             <mxPoint x="800" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-130" value="DTR管理" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+        <mxCell id="vlIEgTrN6-3-FEcJ-Z8j-131" value="DTR管理" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
           <mxGeometry x="-50" width="1090" height="2240" as="geometry" />
         </mxCell>
       </root>
