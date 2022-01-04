@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T09:33:13.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QSKcYgg6wR4Zx6Ir3hwV" version="16.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-04T09:35:57.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3RCrFGc2rEt0DUknlgqP" version="16.1.0" type="github" pages="8">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1024" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -915,7 +915,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F5URAkgLz7fpkV3fFFp2-13" value="支援案件前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
+        <mxCell id="F5URAkgLz7fpkV3fFFp2-13" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
           <mxGeometry x="70" y="120" width="100" height="940" as="geometry" />
         </mxCell>
         <mxCell id="F5URAkgLz7fpkV3fFFp2-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="F5URAkgLz7fpkV3fFFp2-13">
@@ -1072,19 +1072,27 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kM5E_6js4X_iDw5SZ4D1" name="支援案件普通案件时序图">
-    <mxGraphModel dx="1463" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="dlQzbVj48XeodFQLmES--0" />
-        <mxCell id="dlQzbVj48XeodFQLmES--1" parent="dlQzbVj48XeodFQLmES--0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="-783MbBODVg9wFdX0nDM" name="支援案件大小部屋时序图">
+  <diagram id="-783MbBODVg9wFdX0nDM" name="支援普通案件时序图">
     <mxGraphModel dx="1024" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HjauLJpRUhFO6EktkBNn-0" />
         <mxCell id="HjauLJpRUhFO6EktkBNn-1" parent="HjauLJpRUhFO6EktkBNn-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sSCsuQ-_-aaeGQ1xO0Dv" name="支援普通案件行为设计">
+    <mxGraphModel dx="1024" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="oNbKN5BytY2msYYYum_r-0" />
+        <mxCell id="oNbKN5BytY2msYYYum_r-1" parent="oNbKN5BytY2msYYYum_r-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tn9tIxMoP_eQMoB--Qqi" name="支援普通案件事件设计">
+    <mxGraphModel dx="1024" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="cdVuH_OEzL7Q8YEO9FvP-0" />
+        <mxCell id="cdVuH_OEzL7Q8YEO9FvP-1" parent="cdVuH_OEzL7Q8YEO9FvP-0" />
       </root>
     </mxGraphModel>
   </diagram>
