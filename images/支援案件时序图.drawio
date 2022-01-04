@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T12:47:00.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VMYjQRkXNTfA7ZuEXZhY" version="16.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-04T12:47:26.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="U475wScLn9jtuE9YQLhJ" version="16.1.4" type="github" pages="8">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -997,7 +997,7 @@
         <mxCell id="CHyMKus_oBcGaz5orf4B-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" parent="vqJQWzPQHfuaWv_g3BHQ-1" vertex="1">
           <mxGeometry x="115" y="910" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CHyMKus_oBcGaz5orf4B-4" value="4.1FTE结案现地待确认案件closeLocalSmart()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="vqJQWzPQHfuaWv_g3BHQ-1" target="CHyMKus_oBcGaz5orf4B-0" edge="1">
+        <mxCell id="CHyMKus_oBcGaz5orf4B-4" value="4.1FTE结案现地待实施案件closeLocalSmart()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="vqJQWzPQHfuaWv_g3BHQ-1" target="CHyMKus_oBcGaz5orf4B-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="910" as="sourcePoint" />
           </mxGeometry>
@@ -1006,6 +1006,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="986" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A_anrfc072Whtklo8f5J-1" value="SMART案件行为设计" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
+          <mxGeometry x="10" y="80" width="760" height="930" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
