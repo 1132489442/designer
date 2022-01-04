@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T12:48:23.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FVDVljIoWr9yDUqRMGgk" version="16.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-04T12:53:00.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0lVMkSybHE23tzLtxyL6" version="16.1.4" type="github" pages="8">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1369,7 +1369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sSCsuQ-_-aaeGQ1xO0Dv" name="支援普通案件行为设计">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oNbKN5BytY2msYYYum_r-0" />
         <mxCell id="oNbKN5BytY2msYYYum_r-1" parent="oNbKN5BytY2msYYYum_r-0" />
@@ -1561,7 +1561,7 @@
         <mxCell id="eFw77c5ly5WRFfdBkAVR-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="eFw77c5ly5WRFfdBkAVR-32">
           <mxGeometry x="45" y="1430" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eFw77c5ly5WRFfdBkAVR-42" value="2.FTE开始处理" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-4">
+        <mxCell id="eFw77c5ly5WRFfdBkAVR-42" value="2.FTE开始处理；handleCommondInfo()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="300" as="sourcePoint" />
           </mxGeometry>
@@ -1571,7 +1571,7 @@
             <mxPoint x="130" y="376" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFw77c5ly5WRFfdBkAVR-44" value="3.FTE案件退回" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-7">
+        <mxCell id="eFw77c5ly5WRFfdBkAVR-44" value="3.FTE案件退回；cancleCommondInfo()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="440" as="sourcePoint" />
           </mxGeometry>
@@ -1581,7 +1581,7 @@
             <mxPoint x="130" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFw77c5ly5WRFfdBkAVR-46" value="3.1FTE重新开始处理" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-10">
+        <mxCell id="eFw77c5ly5WRFfdBkAVR-46" value="3.1FTE重新开始处理；handleCommondAgain()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="580" as="sourcePoint" />
           </mxGeometry>
@@ -1591,7 +1591,7 @@
             <mxPoint x="130" y="656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFw77c5ly5WRFfdBkAVR-48" value="4.FTE分配助手店处理" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-13">
+        <mxCell id="eFw77c5ly5WRFfdBkAVR-48" value="4.FTE分配助手店处理；assignHandleUser()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="730" as="sourcePoint" />
           </mxGeometry>
@@ -1601,7 +1601,7 @@
             <mxPoint x="130" y="806" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFw77c5ly5WRFfdBkAVR-50" value="5.FTE结案" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-16">
+        <mxCell id="eFw77c5ly5WRFfdBkAVR-50" value="5.FTE结案；closeCommondInfo()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="890" as="sourcePoint" />
           </mxGeometry>
@@ -1611,7 +1611,7 @@
             <mxPoint x="130" y="966" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFw77c5ly5WRFfdBkAVR-52" value="5.1FTE重新结案" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-19">
+        <mxCell id="eFw77c5ly5WRFfdBkAVR-52" value="5.1FTE重新结案；closeCommondInfoAgain()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="oNbKN5BytY2msYYYum_r-1" target="eFw77c5ly5WRFfdBkAVR-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="1040" as="sourcePoint" />
           </mxGeometry>
