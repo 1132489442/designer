@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T09:29:38.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PaOqyXVUDc3qJMQVMxZH" version="16.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-04T09:31:16.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ty2kSeO_Sc0LTstYo2fe" version="16.1.0" type="github" pages="7">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1024" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -839,7 +839,7 @@
         <mxCell id="vqJQWzPQHfuaWv_g3BHQ-0" />
         <mxCell id="vqJQWzPQHfuaWv_g3BHQ-1" parent="vqJQWzPQHfuaWv_g3BHQ-0" />
         <mxCell id="F5URAkgLz7fpkV3fFFp2-0" value="支援案件模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
-          <mxGeometry x="450" y="120" width="100" height="710" as="geometry" />
+          <mxGeometry x="450" y="120" width="100" height="920" as="geometry" />
         </mxCell>
         <mxCell id="F5URAkgLz7fpkV3fFFp2-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="F5URAkgLz7fpkV3fFFp2-0">
           <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
@@ -891,7 +891,7 @@
         <mxCell id="F5URAkgLz7fpkV3fFFp2-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="F5URAkgLz7fpkV3fFFp2-0">
           <mxGeometry x="55" y="640.64" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F5URAkgLz7fpkV3fFFp2-12" value="保存结案信息&lt;br&gt;状态变更：已完结" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="F5URAkgLz7fpkV3fFFp2-0" source="F5URAkgLz7fpkV3fFFp2-10" target="F5URAkgLz7fpkV3fFFp2-11">
+        <mxCell id="F5URAkgLz7fpkV3fFFp2-12" value="保存结案信息&lt;br&gt;1.结案：远程支援，状态：已完结&lt;br&gt;2.结案：现地确认，状态：现地待实施" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="F5URAkgLz7fpkV3fFFp2-0" source="F5URAkgLz7fpkV3fFFp2-10" target="F5URAkgLz7fpkV3fFFp2-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="620.64" as="sourcePoint" />
             <Array as="points">
@@ -916,7 +916,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F5URAkgLz7fpkV3fFFp2-13" value="支援案件前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
-          <mxGeometry x="70" y="120" width="100" height="710" as="geometry" />
+          <mxGeometry x="70" y="120" width="100" height="940" as="geometry" />
         </mxCell>
         <mxCell id="F5URAkgLz7fpkV3fFFp2-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="F5URAkgLz7fpkV3fFFp2-13">
           <mxGeometry x="45" y="210" width="10" height="80" as="geometry" />
@@ -974,6 +974,34 @@
         <mxCell id="F5URAkgLz7fpkV3fFFp2-29" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="F5URAkgLz7fpkV3fFFp2-27" parent="vqJQWzPQHfuaWv_g3BHQ-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHyMKus_oBcGaz5orf4B-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
+          <mxGeometry x="495" y="910" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CHyMKus_oBcGaz5orf4B-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
+          <mxGeometry x="505" y="930" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CHyMKus_oBcGaz5orf4B-2" value="状态变更：已完结" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="vqJQWzPQHfuaWv_g3BHQ-1" source="CHyMKus_oBcGaz5orf4B-0" target="CHyMKus_oBcGaz5orf4B-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="540" y="910" />
+              <mxPoint x="540" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHyMKus_oBcGaz5orf4B-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="vqJQWzPQHfuaWv_g3BHQ-1">
+          <mxGeometry x="115" y="910" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CHyMKus_oBcGaz5orf4B-4" value="4.1FTE结案现地待确认案件closeLocalSmart()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="vqJQWzPQHfuaWv_g3BHQ-1" target="CHyMKus_oBcGaz5orf4B-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="910" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CHyMKus_oBcGaz5orf4B-5" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;entryX=0.98;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="vqJQWzPQHfuaWv_g3BHQ-1" source="CHyMKus_oBcGaz5orf4B-0" target="CHyMKus_oBcGaz5orf4B-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
