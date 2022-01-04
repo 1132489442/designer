@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T12:47:26.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="U475wScLn9jtuE9YQLhJ" version="16.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-04T12:47:55.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Fp92XVB3isuhC6Qb_bif" version="16.1.4" type="github" pages="8">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1014,7 +1014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wFdE9D1pPCWqMX-u3GKy" name="支援案件SMART事件设计">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lMvYOPGoLj8fdWBFUfKN-0" />
         <mxCell id="lMvYOPGoLj8fdWBFUfKN-1" parent="lMvYOPGoLj8fdWBFUfKN-0" />
@@ -1074,6 +1074,9 @@
             <mxPoint x="340" y="310" as="sourcePoint" />
             <mxPoint x="500" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-aW_njiC1SpOt9ZWGd4k-0" value="SMART案件事件设计" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="lMvYOPGoLj8fdWBFUfKN-1">
+          <mxGeometry x="-10" y="150" width="970" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
