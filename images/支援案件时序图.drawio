@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T03:03:47.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yoySm_iNSYVk0JRpe1kp" version="16.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-05T06:26:59.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ltnMnp_ePL7IJQPU59Zm" version="16.1.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
-    <mxGraphModel dx="976" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="h69FeDi5z-fGCZnSDAeQ-0" />
         <mxCell id="h69FeDi5z-fGCZnSDAeQ-1" parent="h69FeDi5z-fGCZnSDAeQ-0" />
@@ -1733,7 +1733,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IuOoLTdDkM4Q_0GAQAQX" name="大小部屋案件时序图">
-    <mxGraphModel dx="1627" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-0" />
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-1" parent="3KsvZ3Zjyeb4FS8-YLfH-0" />
@@ -2248,7 +2248,7 @@
             <mxPoint x="146" y="2626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shNm3K44HmhFepvSRp6w-13" value="13.1DLR零件订单补充" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1" target="shNm3K44HmhFepvSRp6w-9" source="v4LOdOYvwzwdaaq7sZWW-1">
+        <mxCell id="shNm3K44HmhFepvSRp6w-13" value="13.1DLR维修时间补充补充" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1" target="shNm3K44HmhFepvSRp6w-9" source="v4LOdOYvwzwdaaq7sZWW-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221.0000000000001" y="2710.32" as="sourcePoint" />
           </mxGeometry>
@@ -2261,14 +2261,14 @@
         <mxCell id="shNm3K44HmhFepvSRp6w-16" value="零件数据补充流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
           <mxGeometry x="60" y="2520" width="880" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="L8IPMZXF1LPdBELkcTjS-0" value="大小部屋时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
+        <mxCell id="BCQSkcXUk40hSUjgCyDQ-0" value="大小部屋时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
           <mxGeometry y="10" width="1070" height="2820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="LYEgLS30nbNGD8WOdM2V" name="大小部屋行为设计">
-    <mxGraphModel dx="1952" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-0" />
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-1" parent="JQ8r1UF5ZiwTAOrdYPKe-0" />
@@ -3301,6 +3301,51 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221.0000000000001" y="2786.32" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-114" value="一个FTE对应多个城市，并且对应城市下面的销售店" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="200" y="160" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-115" value="&lt;p&gt;一个销售店&lt;span&gt;可有两个车&lt;/span&gt;&lt;span&gt;类型再对应到&lt;/span&gt;&lt;span&gt;不同FTE&lt;/span&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="225" y="290" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-116" value="&lt;p&gt;一个组长可对应多个FTE人员&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="225" y="450" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-117" value="&lt;p&gt;只能管理自己的销售店&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="235" y="600" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-118" value="&lt;p&gt;VIN对应的车型根据大部屋设置自动判断案件为大部屋案件、小部屋案件；&lt;span&gt;当零件交换情况填写的零件号为小部屋设置中的零件则为小部屋，填写的零件号或者零件号为空则为小部屋待观察案件&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;若该工单有零件订购信息，需在初期品质案件处理（EDER）/初期品质案件处理（QA）/初期品质案件跟进（EDER）页中的“零件订单物流信息”列自动展示出该订单的物流信息。若该案件已关联工单，且能检索出零件订单信息，则不需要经销店反馈零件订单信息。&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="630" y="660" width="640" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-119" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.002;entryY=0.841;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" target="5E_t9x7j-KEBF_LOzoW8-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="770" as="sourcePoint" />
+            <mxPoint x="910" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-120" value="FTE未点击查看时，可做撤回处理" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="260" y="960" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-121" value="已退回案件在操作完成后30分钟内还可以重新操作处理案件" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="200" y="1450" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-123" value="仅只有大部屋案件才能提供PFS案件使用" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="630" y="1180" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-124" value="大总成流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="50" y="2070" width="910" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-125" value="任意节点审核不通过都要退回到DLR，让其重新修改上报案件，状态变更为已退回" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="1060" y="2060" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-126" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" source="5E_t9x7j-KEBF_LOzoW8-124" target="5E_t9x7j-KEBF_LOzoW8-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="2350" as="sourcePoint" />
+            <mxPoint x="730" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4PPE5U38AEspDLPFZqdn-0" value="大总成流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="50" y="2510" width="910" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
