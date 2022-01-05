@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T03:03:29.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="m-98EXO5yloVDugHdmoS" version="16.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-05T03:03:36.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="giSevpD-90JGre9cNq0V" version="16.1.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="976" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2268,7 +2268,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LYEgLS30nbNGD8WOdM2V" name="大小部屋行为设计">
-    <mxGraphModel dx="3904" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-0" />
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-1" parent="JQ8r1UF5ZiwTAOrdYPKe-0" />
@@ -3319,9 +3319,6 @@
         </mxCell>
         <mxCell id="5E_t9x7j-KEBF_LOzoW8-111" value="零件数据补充流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
           <mxGeometry x="60" y="2520" width="880" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="5E_t9x7j-KEBF_LOzoW8-112" value="大小部屋时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry y="10" width="1070" height="2820" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
