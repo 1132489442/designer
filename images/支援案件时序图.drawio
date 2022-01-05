@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T06:26:59.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ltnMnp_ePL7IJQPU59Zm" version="16.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-05T06:34:14.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Gx6liF7AYM4wjI86bgLm" version="16.1.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1148" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3292,7 +3292,7 @@
             <mxPoint x="146" y="2625.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5E_t9x7j-KEBF_LOzoW8-109" value="13.1DLR零件订单补充" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" source="5E_t9x7j-KEBF_LOzoW8-59" target="5E_t9x7j-KEBF_LOzoW8-56">
+        <mxCell id="5E_t9x7j-KEBF_LOzoW8-109" value="13.1DLR维修时间补充" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" source="5E_t9x7j-KEBF_LOzoW8-59" target="5E_t9x7j-KEBF_LOzoW8-56">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221.0000000000001" y="2710.32" as="sourcePoint" />
           </mxGeometry>
@@ -3344,8 +3344,17 @@
             <mxPoint x="730" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4PPE5U38AEspDLPFZqdn-0" value="大总成流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="50" y="2510" width="910" height="310" as="geometry" />
+        <mxCell id="4PPE5U38AEspDLPFZqdn-0" value="零件信息补充流程" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=40;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="50" y="2520" width="910" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="99RM1sx7yqSkoMwNCIgc-0" value="若案件在新建提交时已经关联了工单，且在FTE处理结案后能检索出零件订单信息，则无需进入“零件订单待补充”的状态。可直接进入维修时间待补充的状态。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+          <mxGeometry x="1050" y="2510" width="245" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="99RM1sx7yqSkoMwNCIgc-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.063;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" source="4PPE5U38AEspDLPFZqdn-0" target="99RM1sx7yqSkoMwNCIgc-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="2660" as="sourcePoint" />
+            <mxPoint x="540" y="2610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
