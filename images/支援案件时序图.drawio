@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T13:18:42.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="odvqyQUrfh0pYLP-rv43" version="16.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-01-05T01:36:09.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WIPOAHk-sci_vLJ1l-yY" version="16.1.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="h69FeDi5z-fGCZnSDAeQ-0" />
         <mxCell id="h69FeDi5z-fGCZnSDAeQ-1" parent="h69FeDi5z-fGCZnSDAeQ-0" />
@@ -416,7 +416,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BtyBeuvjvxywAozf_fOz" name="支援案件SMART案件时序图">
-    <mxGraphModel dx="1887" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ju7r59gT26Z2emEAXLGE-0" />
         <mxCell id="ju7r59gT26Z2emEAXLGE-1" parent="ju7r59gT26Z2emEAXLGE-0" />
@@ -587,7 +587,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yTX3ChZkHRQFC8-pRJUC" name="支援案件SMART案件行为设计">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vqJQWzPQHfuaWv_g3BHQ-0" />
         <mxCell id="vqJQWzPQHfuaWv_g3BHQ-1" parent="vqJQWzPQHfuaWv_g3BHQ-0" />
@@ -764,7 +764,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wFdE9D1pPCWqMX-u3GKy" name="支援案件SMART事件设计">
-    <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1803" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lMvYOPGoLj8fdWBFUfKN-0" />
         <mxCell id="lMvYOPGoLj8fdWBFUfKN-1" parent="lMvYOPGoLj8fdWBFUfKN-0" />
@@ -832,7 +832,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-783MbBODVg9wFdX0nDM" name="支援普通案件时序图">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HjauLJpRUhFO6EktkBNn-0" />
         <mxCell id="HjauLJpRUhFO6EktkBNn-1" parent="HjauLJpRUhFO6EktkBNn-0" />
@@ -1119,7 +1119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sSCsuQ-_-aaeGQ1xO0Dv" name="支援普通案件行为设计">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oNbKN5BytY2msYYYum_r-0" />
         <mxCell id="oNbKN5BytY2msYYYum_r-1" parent="oNbKN5BytY2msYYYum_r-0" />
@@ -1222,7 +1222,7 @@
         <mxCell id="eFw77c5ly5WRFfdBkAVR-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="eFw77c5ly5WRFfdBkAVR-0">
           <mxGeometry x="55" y="1020" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eFw77c5ly5WRFfdBkAVR-21" value="保存结案信息&lt;br&gt;1.案件类型不是大总成事件，状态变更：已完结&lt;br&gt;2.案件类型是大总成事件，状态变更：带组长审核" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.874;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="eFw77c5ly5WRFfdBkAVR-0" source="eFw77c5ly5WRFfdBkAVR-19" target="eFw77c5ly5WRFfdBkAVR-20">
+        <mxCell id="eFw77c5ly5WRFfdBkAVR-21" value="保存结案信息&lt;br&gt;1.案件类型不是大总成事件，状态变更：已完结&lt;br&gt;2.案件类型是大总成事件，状态变更：待组长审核" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.874;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="eFw77c5ly5WRFfdBkAVR-0" source="eFw77c5ly5WRFfdBkAVR-19" target="eFw77c5ly5WRFfdBkAVR-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="1000" as="sourcePoint" />
             <Array as="points">
@@ -1405,14 +1405,14 @@
         <mxCell id="zfSlUHyNu_CsjcaBTCbG-0" value="大总成事件" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="oNbKN5BytY2msYYYum_r-1">
           <mxGeometry x="69" y="1169" width="690" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="zfSlUHyNu_CsjcaBTCbG-3" value="普通案件行为设计" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="oNbKN5BytY2msYYYum_r-1">
+        <mxCell id="8aWY6uRV9eTOv1VqHFXj-0" value="普通案件行为设计" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="oNbKN5BytY2msYYYum_r-1">
           <mxGeometry width="850" height="1590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="tn9tIxMoP_eQMoB--Qqi" name="支援普通案件事件设计">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cdVuH_OEzL7Q8YEO9FvP-0" />
         <mxCell id="cdVuH_OEzL7Q8YEO9FvP-1" parent="cdVuH_OEzL7Q8YEO9FvP-0" />
@@ -1528,7 +1528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zr40YH4bkmVggeP0Ed5z" name="大小部屋事件设计">
-    <mxGraphModel dx="2048" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1975" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_0PGtVYqOFb0A47ViG-o-0" />
         <mxCell id="_0PGtVYqOFb0A47ViG-o-1" parent="_0PGtVYqOFb0A47ViG-o-0" />
@@ -1729,6 +1729,84 @@
         <mxCell id="npAx94TFaxknIwQuX5f7-0" value="大小部屋案件事件设计" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="_0PGtVYqOFb0A47ViG-o-1">
           <mxGeometry x="-450" y="360" width="1320" height="1180" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IuOoLTdDkM4Q_0GAQAQX" name="大小部屋案件时序图">
+    <mxGraphModel dx="813" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-0" />
+        <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-1" parent="3KsvZ3Zjyeb4FS8-YLfH-0" />
+        <mxCell id="v4LOdOYvwzwdaaq7sZWW-0" value="支援案件模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
+          <mxGeometry x="520" y="40" width="100" height="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="xQA6efrl5ToSeAM1Yp5I-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="v4LOdOYvwzwdaaq7sZWW-0">
+          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="v4LOdOYvwzwdaaq7sZWW-0">
+          <mxGeometry x="55" y="130" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-1" value="保存" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.834;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="GCyB50VdWBGKq3HlZUCJ-0" parent="v4LOdOYvwzwdaaq7sZWW-0" source="xQA6efrl5ToSeAM1Yp5I-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="110" />
+              <mxPoint x="90" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="v4LOdOYvwzwdaaq7sZWW-0">
+          <mxGeometry x="45" y="240.42000000000002" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="v4LOdOYvwzwdaaq7sZWW-0">
+          <mxGeometry x="55" y="260.42" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-4" value="保存" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.834;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="v4LOdOYvwzwdaaq7sZWW-0" source="GCyB50VdWBGKq3HlZUCJ-2" target="GCyB50VdWBGKq3HlZUCJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-455" y="200.42000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="95" y="240.42000000000002" />
+              <mxPoint x="95" y="260.42" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-6" value="2.技术支援室区域设置" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="v4LOdOYvwzwdaaq7sZWW-0" target="GCyB50VdWBGKq3HlZUCJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-375" y="240.42000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-7" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="v4LOdOYvwzwdaaq7sZWW-0" source="GCyB50VdWBGKq3HlZUCJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-375" y="316.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v4LOdOYvwzwdaaq7sZWW-1" value="支援案件前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
+          <mxGeometry x="90" y="40" width="100" height="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="xQA6efrl5ToSeAM1Yp5I-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="v4LOdOYvwzwdaaq7sZWW-1">
+          <mxGeometry x="45" y="110" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GCyB50VdWBGKq3HlZUCJ-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="v4LOdOYvwzwdaaq7sZWW-1">
+          <mxGeometry x="45" y="240.42000000000002" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xQA6efrl5ToSeAM1Yp5I-2" value="1.技术支援室区域设置" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="xQA6efrl5ToSeAM1Yp5I-1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xQA6efrl5ToSeAM1Yp5I-3" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="xQA6efrl5ToSeAM1Yp5I-1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LYEgLS30nbNGD8WOdM2V" name="大小部屋行为设计">
+    <mxGraphModel dx="976" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-0" />
+        <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-1" parent="JQ8r1UF5ZiwTAOrdYPKe-0" />
       </root>
     </mxGraphModel>
   </diagram>
