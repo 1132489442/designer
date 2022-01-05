@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T03:03:36.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="giSevpD-90JGre9cNq0V" version="16.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-05T03:03:47.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yoySm_iNSYVk0JRpe1kp" version="16.1.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="976" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2646,9 +2646,6 @@
             <mxPoint x="140" y="666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="59ZPCiRsj61WwGHXXzdX-79" value="公共设置" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="60" y="110" width="600" height="570" as="geometry" />
-        </mxCell>
         <mxCell id="59ZPCiRsj61WwGHXXzdX-80" value="5.DLR创建初期品质案件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" target="59ZPCiRsj61WwGHXXzdX-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="770" as="sourcePoint" />
@@ -2770,9 +2767,6 @@
             <mxPoint x="141" y="2437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="59ZPCiRsj61WwGHXXzdX-106" value="大总成事件" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="60" y="2080" width="880" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="59ZPCiRsj61WwGHXXzdX-107" value="13.1零件订单补充" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" target="59ZPCiRsj61WwGHXXzdX-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146" y="2550" as="sourcePoint" />
@@ -2792,9 +2786,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221.0000000000001" y="2786.32" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="59ZPCiRsj61WwGHXXzdX-111" value="零件数据补充流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="60" y="2520" width="880" height="300" as="geometry" />
         </mxCell>
         <mxCell id="5E_t9x7j-KEBF_LOzoW8-0" value="支援案件模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
           <mxGeometry x="520" y="40" width="100" height="2880" as="geometry" />
@@ -3170,9 +3161,6 @@
             <mxPoint x="140" y="666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5E_t9x7j-KEBF_LOzoW8-79" value="公共设置" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="60" y="110" width="600" height="570" as="geometry" />
-        </mxCell>
         <mxCell id="5E_t9x7j-KEBF_LOzoW8-80" value="5.DLR创建初期品质案件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" target="5E_t9x7j-KEBF_LOzoW8-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140.00000000000023" y="770.0000000000002" as="sourcePoint" />
@@ -3294,9 +3282,6 @@
             <mxPoint x="141" y="2437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5E_t9x7j-KEBF_LOzoW8-106" value="大总成事件" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="60" y="2080" width="880" height="400" as="geometry" />
-        </mxCell>
         <mxCell id="5E_t9x7j-KEBF_LOzoW8-107" value="13.1DLR零件订单补充" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" target="5E_t9x7j-KEBF_LOzoW8-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146" y="2550" as="sourcePoint" />
@@ -3316,9 +3301,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="221.0000000000001" y="2786.32" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5E_t9x7j-KEBF_LOzoW8-111" value="零件数据补充流程" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="60" y="2520" width="880" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
