@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T08:56:24.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="QEEWBdHrsuk1ysUehf8h" version="16.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-07T08:56:59.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0qjKsiEEgNz9EIT1MTzl" version="16.1.4" type="github" pages="4">
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
     <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -879,6 +879,9 @@
             <mxPoint x="810" y="390" as="sourcePoint" />
             <mxPoint x="650" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nMuNYGCQgAsCLkVn3GLn-0" value="DTR行为设计" style="shape=umlFrame;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="c0toAD09NTmbXhDHQDAE-1">
+          <mxGeometry x="-100" y="40" width="1070" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
