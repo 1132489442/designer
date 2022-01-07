@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T11:03:44.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="FxdACNoElWt49ryJB5Ao" version="16.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-07T11:06:41.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xovlwyG3RZWC2M8w7mQ2" version="16.1.4" type="github" pages="4">
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
     <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -859,7 +859,7 @@
           <mxGeometry x="-40" y="80" width="100" height="630" as="geometry" />
         </mxCell>
         <mxCell id="5yhRF4oeJzgjkPzN5F57-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;gradientColor=none;" vertex="1" parent="6EKOO6_6jC5yzs5Tk7I1-1">
-          <mxGeometry x="45" y="110" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="110" width="10" height="240" as="geometry" />
         </mxCell>
         <mxCell id="6EKOO6_6jC5yzs5Tk7I1-2" value="DTR领域" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;gradientColor=none;" vertex="1" parent="c0toAD09NTmbXhDHQDAE-1">
           <mxGeometry x="720" y="80" width="100" height="640" as="geometry" />
@@ -942,6 +942,12 @@
         </mxCell>
         <mxCell id="xmN3QANZVvpfUUXu--nf-0" value="creatDTR()" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="c0toAD09NTmbXhDHQDAE-1">
           <mxGeometry x="50" y="200" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DRHn9sB1pvBs4GMz1-KO-0" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.012;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="c0toAD09NTmbXhDHQDAE-1" source="BbSLhgWjfqQp5H1RtM0r-1" target="5yhRF4oeJzgjkPzN5F57-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="380" as="sourcePoint" />
+            <mxPoint x="470" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
