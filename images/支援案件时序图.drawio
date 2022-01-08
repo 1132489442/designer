@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T10:37:10.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hkcm21Rguz0t7Gy3K4-2" version="16.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-08T10:38:22.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uVRgf9wTiCa2-d3gn4Cp" version="16.1.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1483" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1408,7 +1408,7 @@
       <root>
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-0" />
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-1" parent="3KsvZ3Zjyeb4FS8-YLfH-0" />
-        <mxCell id="v4LOdOYvwzwdaaq7sZWW-0" value="支援案件模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
+        <mxCell id="v4LOdOYvwzwdaaq7sZWW-0" value="技术支持模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
           <mxGeometry x="520" y="40" width="100" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="PM0M4vsnoGeXTRG09P5y-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="v4LOdOYvwzwdaaq7sZWW-0" vertex="1">
@@ -1513,7 +1513,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v4LOdOYvwzwdaaq7sZWW-1" value="支援案件前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
+        <mxCell id="v4LOdOYvwzwdaaq7sZWW-1" value="技术支持前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
           <mxGeometry x="90" y="40" width="100" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="PM0M4vsnoGeXTRG09P5y-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="v4LOdOYvwzwdaaq7sZWW-1" vertex="1">
@@ -1610,7 +1610,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LYEgLS30nbNGD8WOdM2V" name="大小部屋行为设计">
-    <mxGraphModel dx="4979" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2424" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-0" />
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-1" parent="JQ8r1UF5ZiwTAOrdYPKe-0" />
