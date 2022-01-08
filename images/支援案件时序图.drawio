@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T10:36:48.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="C63dFV9IAMkKXoT_PYiZ" version="16.1.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-08T10:37:10.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="hkcm21Rguz0t7Gy3K4-2" version="16.1.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1483" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1301,7 +1301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zr40YH4bkmVggeP0Ed5z" name="大小部屋事件设计">
-    <mxGraphModel dx="2310" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_0PGtVYqOFb0A47ViG-o-0" />
         <mxCell id="_0PGtVYqOFb0A47ViG-o-1" parent="_0PGtVYqOFb0A47ViG-o-0" />
@@ -1394,7 +1394,7 @@
             <mxPoint x="590" y="774.2899999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gYjVqba4c7pf1dFgX3h4-6" value="通过" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_0PGtVYqOFb0A47ViG-o-1" source="_0PGtVYqOFb0A47ViG-o-30" target="_0PGtVYqOFb0A47ViG-o-15">
+        <mxCell id="gYjVqba4c7pf1dFgX3h4-6" value="不通过" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_0PGtVYqOFb0A47ViG-o-1" source="_0PGtVYqOFb0A47ViG-o-30" target="_0PGtVYqOFb0A47ViG-o-15">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="240" y="775" as="sourcePoint" />
             <mxPoint x="379.99999999999955" y="775" as="targetPoint" />
