@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T07:59:01.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EXJKHwt4EpT6JvNHq0In" version="16.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-08T08:13:55.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zysb6mApLdKOEtzoBt8p" version="16.1.4" type="github" pages="8">
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1144,6 +1144,44 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="IHeZC4w9z22RcTRILzUh" name="支援案件时序图">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Dj9IjQi4ySqAmuDxC-_I-0" />
+        <mxCell id="Dj9IjQi4ySqAmuDxC-_I-1" parent="Dj9IjQi4ySqAmuDxC-_I-0" />
+        <mxCell id="HOCDLm57fPXwnWJi1KCP-0" value="技术支持模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="Dj9IjQi4ySqAmuDxC-_I-1">
+          <mxGeometry x="440" y="80" width="100" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="HOCDLm57fPXwnWJi1KCP-1" value="技术支持前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;shadow=0;labelBackgroundColor=none;labelBorderColor=none;sketch=0;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="Dj9IjQi4ySqAmuDxC-_I-1">
+          <mxGeometry x="80" y="80" width="100" height="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YD35OFl2tzLZkoaYN9h4" name="支援案件行为设计">
+    <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Y5tQDt97vDPdJK5Uu3zs-0" />
+        <mxCell id="Y5tQDt97vDPdJK5Uu3zs-1" parent="Y5tQDt97vDPdJK5Uu3zs-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HbPB1d8C3JWe71Mjm2-c" name="支援案件聚合根">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="iyv8SlmF25v3kv3tsOnw-0" />
+        <mxCell id="iyv8SlmF25v3kv3tsOnw-1" parent="iyv8SlmF25v3kv3tsOnw-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jzUCsIkxU_VQuD-7EmV9" name="支援案件事件设计">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="zVr6eMvUHKGiW_7HIk6b-0" />
+        <mxCell id="zVr6eMvUHKGiW_7HIk6b-1" parent="zVr6eMvUHKGiW_7HIk6b-0" />
       </root>
     </mxGraphModel>
   </diagram>
