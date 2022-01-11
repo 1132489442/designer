@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T07:59:18.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="K3AD1cuG9YCY7hJpm66W" version="16.2.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-11T08:03:27.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="U5kriN-abIvwH-GfgWcX" version="16.2.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1504" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1694,7 +1694,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LYEgLS30nbNGD8WOdM2V" name="大小部屋行为设计">
-    <mxGraphModel dx="2425" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2425" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-0" />
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-1" parent="JQ8r1UF5ZiwTAOrdYPKe-0" />
@@ -1822,7 +1822,7 @@
           <mxGeometry x="50" y="120" width="10" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Zq8fmg1Towb4HDUrsQ31-13" value="MQ消息服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="321" y="930" width="100" height="450" as="geometry" />
+          <mxGeometry x="391" y="930" width="100" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Zq8fmg1Towb4HDUrsQ31-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Zq8fmg1Towb4HDUrsQ31-13">
           <mxGeometry x="45" y="290" width="10" height="40" as="geometry" />
@@ -1882,7 +1882,7 @@
             <mxPoint x="-397.2900000000002" y="1320.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zq8fmg1Towb4HDUrsQ31-32" value="1.1.1.2&lt;span style=&quot;text-align: left&quot;&gt;下发PFS推送MQ()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" target="Zq8fmg1Towb4HDUrsQ31-14">
+        <mxCell id="Zq8fmg1Towb4HDUrsQ31-32" value="1.1.1.2&lt;span style=&quot;text-align: left&quot;&gt;推送至事件总线MQ，下发到PFS&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1" target="Zq8fmg1Towb4HDUrsQ31-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="196" y="1220" as="sourcePoint" />
           </mxGeometry>
@@ -1976,7 +1976,7 @@
           <mxGeometry x="-530" y="20" width="970" height="810" as="geometry" />
         </mxCell>
         <mxCell id="zdslfBoX5tK69S67sCA4-0" value="支援案件审核" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=30;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
-          <mxGeometry x="-540" y="900" width="980" height="470" as="geometry" />
+          <mxGeometry x="-540" y="900" width="1040" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
