@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T10:04:22.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="VJzzrWcsObEEREmeJcWz" version="16.2.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-01-11T10:07:37.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YQBL-u8lLSrTIMB81wtt" version="16.2.4" type="github" pages="10">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
-    <mxGraphModel dx="1826" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="h69FeDi5z-fGCZnSDAeQ-0" />
         <mxCell id="h69FeDi5z-fGCZnSDAeQ-1" parent="h69FeDi5z-fGCZnSDAeQ-0" />
@@ -1319,7 +1319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tn9tIxMoP_eQMoB--Qqi" name="支援普通案件事件设计">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="cdVuH_OEzL7Q8YEO9FvP-0" />
         <mxCell id="cdVuH_OEzL7Q8YEO9FvP-1" parent="cdVuH_OEzL7Q8YEO9FvP-0" />
@@ -1519,7 +1519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IuOoLTdDkM4Q_0GAQAQX" name="大小部屋案件时序图">
-    <mxGraphModel dx="1598" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1598" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-0" />
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-1" parent="3KsvZ3Zjyeb4FS8-YLfH-0" />
@@ -1770,7 +1770,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LYEgLS30nbNGD8WOdM2V" name="大小部屋行为设计">
-    <mxGraphModel dx="2105" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-0" />
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-1" parent="JQ8r1UF5ZiwTAOrdYPKe-0" />
@@ -1855,13 +1855,13 @@
         <mxCell id="HX1d6GKgYTtleCZAVC0S-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Sgn5mof9V25elYPDae_v-111">
           <mxGeometry x="50" y="100" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="X34cReg9rXOJp57aYCQs-2" value="1.3DLR创建初期品质案件()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.967;exitY=0.255;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+        <mxCell id="X34cReg9rXOJp57aYCQs-2" value="1.3DLR提交初期品质案件()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.967;exitY=0.255;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-365.3299999999999" y="590.25" as="sourcePoint" />
             <mxPoint x="-161.50000000000023" y="590.2500000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NTJifaZpOwpuz6X4tayY-10" value="1.3.1调用支援案件聚合&lt;br&gt;创建案件()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="NTJifaZpOwpuz6X4tayY-9" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+        <mxCell id="NTJifaZpOwpuz6X4tayY-10" value="1.3.1调用支援案件聚合&lt;br&gt;提交案件()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="NTJifaZpOwpuz6X4tayY-9" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-156" y="630" as="sourcePoint" />
           </mxGeometry>
@@ -1872,7 +1872,7 @@
             <mxPoint x="33.5" y="780.22" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NTJifaZpOwpuz6X4tayY-13" value="1.3.1.2创建案件()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1.078;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="NTJifaZpOwpuz6X4tayY-12" parent="JQ8r1UF5ZiwTAOrdYPKe-1" source="NTJifaZpOwpuz6X4tayY-9">
+        <mxCell id="NTJifaZpOwpuz6X4tayY-13" value="1.3.1.2提交案件()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1.078;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="NTJifaZpOwpuz6X4tayY-12" parent="JQ8r1UF5ZiwTAOrdYPKe-1" source="NTJifaZpOwpuz6X4tayY-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="44" y="680" as="sourcePoint" />
           </mxGeometry>
@@ -2126,7 +2126,7 @@
         <mxCell id="9v2Dug0w3c39gi5btUy8-16" value="支援案件审核" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=30;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
           <mxGeometry x="-540" y="900" width="1040" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="9v2Dug0w3c39gi5btUy8-17" value="支援案件创建" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=30;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
+        <mxCell id="JI8xAL2IyOrE5K6PgEnA-0" value="支援案件创建" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=30;" vertex="1" parent="JQ8r1UF5ZiwTAOrdYPKe-1">
           <mxGeometry x="-530" y="20" width="1000" height="820" as="geometry" />
         </mxCell>
       </root>
