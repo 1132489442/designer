@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T07:11:26.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="3niY5SF9sMIpLQjr1STI" version="16.2.4" type="github" pages="5">
-  <diagram id="TrSOcgq1P8zjbeBmHI5Y" name="第 1 页">
-    <mxGraphModel dx="1597" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-01-12T07:16:09.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sHWLUGNhJEEMKshjnnSM" version="16.2.4" type="github" pages="5">
+  <diagram id="TrSOcgq1P8zjbeBmHI5Y" name="SKR行为图-提交">
+    <mxGraphModel dx="903" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,15 +8,15 @@
           <mxGeometry x="339" y="151" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="y9LRkIkVJuertMiDrjGQ-1">
-          <mxGeometry x="45" y="80" width="10" height="280" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-3" value="DMS-PC-BEFF服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="539" y="151" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="y9LRkIkVJuertMiDrjGQ-3">
-          <mxGeometry x="45" y="80" width="10" height="270" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="y9LRkIkVJuertMiDrjGQ-5" value="2.调用服务改善报告提交（）" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="y9LRkIkVJuertMiDrjGQ-3">
+        <mxCell id="y9LRkIkVJuertMiDrjGQ-5" value="1.1.调用SKR聚合服务&lt;br&gt;提交服务报告()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="y9LRkIkVJuertMiDrjGQ-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="55" y="120" as="sourcePoint" />
             <mxPoint x="244.5" y="120" as="targetPoint" />
@@ -26,18 +26,18 @@
           <mxGeometry x="739" y="151" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="y9LRkIkVJuertMiDrjGQ-6">
-          <mxGeometry x="45" y="120" width="10" height="220" as="geometry" />
+          <mxGeometry x="45" y="120" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-8" value="质量反馈跟踪原子服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="939" y="150" width="131" height="441" as="geometry" />
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="y9LRkIkVJuertMiDrjGQ-8">
-          <mxGeometry x="60" y="160" width="10" height="170" as="geometry" />
+          <mxGeometry x="60" y="160" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="y9LRkIkVJuertMiDrjGQ-8">
           <mxGeometry x="70" y="201" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y9LRkIkVJuertMiDrjGQ-11" value="3.1提交服务改善报告（）" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="y9LRkIkVJuertMiDrjGQ-8" target="y9LRkIkVJuertMiDrjGQ-10">
+        <mxCell id="y9LRkIkVJuertMiDrjGQ-11" value="1.1.1.1保存报告()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="y9LRkIkVJuertMiDrjGQ-8" target="y9LRkIkVJuertMiDrjGQ-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="181" as="sourcePoint" />
             <Array as="points">
@@ -45,13 +45,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="y9LRkIkVJuertMiDrjGQ-12" value="3.调用服务改善报告提交（）" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="y9LRkIkVJuertMiDrjGQ-8">
+        <mxCell id="y9LRkIkVJuertMiDrjGQ-12" value="1.1.1提交服务报告()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="y9LRkIkVJuertMiDrjGQ-8">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-144" y="160" as="sourcePoint" />
             <mxPoint x="65" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y9LRkIkVJuertMiDrjGQ-13" value="1.发起服务改善报告提交请求（）" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y9LRkIkVJuertMiDrjGQ-2" target="y9LRkIkVJuertMiDrjGQ-4">
+        <mxCell id="y9LRkIkVJuertMiDrjGQ-13" value="1.经销商提交服务报告()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1;exitY=0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y9LRkIkVJuertMiDrjGQ-2" target="y9LRkIkVJuertMiDrjGQ-4">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="399" y="231" as="sourcePoint" />
             <mxPoint x="479" y="231" as="targetPoint" />
@@ -59,24 +59,24 @@
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-14" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1004" y="480" as="sourcePoint" />
-            <mxPoint x="793.3235294117653" y="480" as="targetPoint" />
+            <mxPoint x="1004" y="410" as="sourcePoint" />
+            <mxPoint x="793.3235294117653" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-15" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="783" y="491" as="sourcePoint" />
-            <mxPoint x="592.5" y="491" as="targetPoint" />
+            <mxPoint x="783" y="441" as="sourcePoint" />
+            <mxPoint x="592.5" y="441" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-16" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="583" y="501" as="sourcePoint" />
-            <mxPoint x="392.5" y="501" as="targetPoint" />
+            <mxPoint x="583" y="461" as="sourcePoint" />
+            <mxPoint x="392.5" y="461" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y9LRkIkVJuertMiDrjGQ-33" value="skr提交行为设计" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=30;" vertex="1" parent="1">
-          <mxGeometry x="230" y="101" width="990" height="540" as="geometry" />
+          <mxGeometry x="230" y="101" width="90" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -463,7 +463,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0ChmfafkNTa2UhPVmzKm" name="SKR行为图-评分">
+  <diagram id="0ChmfafkNTa2UhPVmzKm" name="SKR行为图-评价">
     <mxGraphModel dx="1038" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pGLU1AuZmp_0xCq2DvL2-0" />
