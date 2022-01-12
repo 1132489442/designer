@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T02:21:48.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7gXZOTH9flc5h9qNdf1q" version="16.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-01-12T02:25:05.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LH2i_74OmjpJ75DAFeyW" version="16.2.4" type="github" pages="4">
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
-    <mxGraphModel dx="716" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IoVDs216V9Fv6QdhzG9g-0" />
         <mxCell id="IoVDs216V9Fv6QdhzG9g-1" parent="IoVDs216V9Fv6QdhzG9g-0" />
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-1" value="技术支持模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
-          <mxGeometry x="520" y="80" width="100" height="740" as="geometry" />
+          <mxGeometry x="520" y="80" width="100" height="640" as="geometry" />
         </mxCell>
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="D7KoAtK2fCVZ2LbQlsdI-1" vertex="1">
           <mxGeometry x="45" y="280" width="10" height="90" as="geometry" />
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-2" value="技术支持前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
-          <mxGeometry x="80" y="80" width="100" height="740" as="geometry" />
+          <mxGeometry x="80" y="80" width="100" height="640" as="geometry" />
         </mxCell>
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="D7KoAtK2fCVZ2LbQlsdI-2" vertex="1">
           <mxGeometry x="45" y="120" width="10" height="470" as="geometry" />
@@ -140,6 +140,15 @@
               <mxPoint x="610" y="291" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zlaXa4DuHD3fWVorX1YU-0" value="通过VIN码获取" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+          <mxGeometry x="280" y="231" width="140" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="zlaXa4DuHD3fWVorX1YU-1" value="通过用户ID获取" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+          <mxGeometry x="280" y="370" width="140" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="zlaXa4DuHD3fWVorX1YU-2" value="通过填写的零件号获取" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+          <mxGeometry x="280" y="501" width="140" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
