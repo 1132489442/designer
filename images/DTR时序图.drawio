@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T04:47:16.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9sktQ1VvReokPVJsfO3l" version="16.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-12T05:15:54.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="B5Xberj3vSAg6BJYv84Q" version="16.2.4" type="github" pages="5">
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
     <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1475,7 +1475,7 @@
         <mxCell id="Zv2wlDFSfDz1Ys_5PTIM-4" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FFFFFF;width=30;height=15;" vertex="1" parent="0OKduR3dPHxxESPNn2Zo-1">
           <mxGeometry x="580" y="340" width="310" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Zv2wlDFSfDz1Ys_5PTIM-5" value="1.DTR已关联议案：可重新关联议案()&lt;br&gt;2.未关联议案：可直接关联议案()&lt;br&gt;3.可新增议案() ,再关联议案()" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;size=6;strokeColor=#b85450;" vertex="1" parent="0OKduR3dPHxxESPNn2Zo-1">
+        <mxCell id="Zv2wlDFSfDz1Ys_5PTIM-5" value="1.DTR已关联议案：可重新关联议案()&lt;br&gt;2.未关联议案：可直接关联议案()&lt;br&gt;3.也可新增议案() ,再关联议案()" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;size=6;strokeColor=#b85450;" vertex="1" parent="0OKduR3dPHxxESPNn2Zo-1">
           <mxGeometry x="910" y="395.5" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="byAEhz8FXCD6dmU-Ddg2-0" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.002;exitY=0.428;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="0OKduR3dPHxxESPNn2Zo-1" source="Zv2wlDFSfDz1Ys_5PTIM-4" target="Zv2wlDFSfDz1Ys_5PTIM-5">
