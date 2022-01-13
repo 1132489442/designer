@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T01:04:27.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RwkvSzzlNC6pACcQvU82" version="16.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-01-13T01:06:02.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="SXEIcp6usIJWzzBk6eAf" version="16.2.4" type="github" pages="5">
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
     <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IoVDs216V9Fv6QdhzG9g-0" />
         <mxCell id="IoVDs216V9Fv6QdhzG9g-1" parent="IoVDs216V9Fv6QdhzG9g-0" />
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-1" value="技术支持模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
-          <mxGeometry x="520" y="80" width="100" height="1250" as="geometry" />
+          <mxGeometry x="520" y="80" width="100" height="980" as="geometry" />
         </mxCell>
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="D7KoAtK2fCVZ2LbQlsdI-1" vertex="1">
           <mxGeometry x="45" y="215" width="10" height="90" as="geometry" />
@@ -31,32 +31,14 @@
         <mxCell id="9OYWFIVXcWKs4Kt3WgAo-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="D7KoAtK2fCVZ2LbQlsdI-1" vertex="1">
           <mxGeometry x="56" y="915" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="D7KoAtK2fCVZ2LbQlsdI-1" vertex="1">
-          <mxGeometry x="46" y="1015" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="D7KoAtK2fCVZ2LbQlsdI-1" vertex="1">
-          <mxGeometry x="56" y="1035.03" width="10" height="19.97" as="geometry" />
-        </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-15" value="4.1.1检验DTR()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="D7KoAtK2fCVZ2LbQlsdI-1" source="9p5YEqd-RMbACSkKxZzz-11" target="9p5YEqd-RMbACSkKxZzz-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="61" y="1015.03" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="91" y="1015" />
-              <mxPoint x="91" y="1035" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-2" value="技术支持前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
-          <mxGeometry x="80" y="80" width="100" height="1250" as="geometry" />
+          <mxGeometry x="80" y="80" width="100" height="980" as="geometry" />
         </mxCell>
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="D7KoAtK2fCVZ2LbQlsdI-2" vertex="1">
           <mxGeometry x="45" y="55" width="10" height="470" as="geometry" />
         </mxCell>
         <mxCell id="9p5YEqd-RMbACSkKxZzz-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="D7KoAtK2fCVZ2LbQlsdI-2" vertex="1">
           <mxGeometry x="45" y="585" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="D7KoAtK2fCVZ2LbQlsdI-2" vertex="1">
-          <mxGeometry x="45" y="1015" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D7KoAtK2fCVZ2LbQlsdI-5" value="1.2获取用户信息()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="IoVDs216V9Fv6QdhzG9g-1" target="D7KoAtK2fCVZ2LbQlsdI-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -269,34 +251,8 @@
             <mxPoint x="380" y="695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-12" value="4.1EDER将DTR作成FTR" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="IoVDs216V9Fv6QdhzG9g-1" target="9p5YEqd-RMbACSkKxZzz-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="1095" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
-          <mxGeometry x="576" y="1155" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-17" value="4.1.2发送生成FTR至事件总线MQ，生成FTR()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.022;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;" parent="IoVDs216V9Fv6QdhzG9g-1" source="9p5YEqd-RMbACSkKxZzz-11" target="9p5YEqd-RMbACSkKxZzz-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="581" y="1145" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="611" y="1146" />
-              <mxPoint x="611" y="1155" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-18" value="仅状态为已通过,已关联议案的DTR能生成FTR" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;size=9;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
-          <mxGeometry x="650" y="1055" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9p5YEqd-RMbACSkKxZzz-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="IoVDs216V9Fv6QdhzG9g-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="1095" as="sourcePoint" />
-            <mxPoint x="650" y="1070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9p5YEqd-RMbACSkKxZzz-20" value="DTR时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FFFFFF;width=80;height=20;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
-          <mxGeometry x="50" y="40" width="1070" height="1170" as="geometry" />
+          <mxGeometry x="50" y="40" width="1070" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="xhVN4SAc53TRXgxCug_b-2" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
           <mxGeometry x="490" y="820" width="370" height="140" as="geometry" />
@@ -323,7 +279,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V0s0wlpr_3-9tdm5yaTr" name="DTR聚合根">
-    <mxGraphModel dx="1038" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WmhHNf8XsClNrqrAS_oT-0" />
         <mxCell id="WmhHNf8XsClNrqrAS_oT-1" parent="WmhHNf8XsClNrqrAS_oT-0" />
@@ -968,7 +924,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DHomSAgZYFc8Woehfo28" name="DTR行为设计-创建">
-    <mxGraphModel dx="1883" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="c0toAD09NTmbXhDHQDAE-0" />
         <mxCell id="c0toAD09NTmbXhDHQDAE-1" parent="c0toAD09NTmbXhDHQDAE-0" />
