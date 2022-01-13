@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T09:33:16.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="l32hCuTmLMvu_fws6tQb" version="16.2.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-13T09:35:35.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7UyF06sBNno_tKTq5V_D" version="16.2.6" type="github" pages="6">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -704,7 +704,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IuOoLTdDkM4Q_0GAQAQX" name="支援案件时序图">
-    <mxGraphModel dx="1384" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-0" />
         <mxCell id="3KsvZ3Zjyeb4FS8-YLfH-1" parent="3KsvZ3Zjyeb4FS8-YLfH-0" />
@@ -727,7 +727,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cimZflT9EFZg9U1vJ9ig-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="v4LOdOYvwzwdaaq7sZWW-0" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="90" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gVu3k495lbRPuqZvHWGu-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="v4LOdOYvwzwdaaq7sZWW-0" vertex="1">
           <mxGeometry x="55" y="90" width="10" height="20" as="geometry" />
@@ -757,7 +757,7 @@
           <mxGeometry x="90" y="40" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="PM0M4vsnoGeXTRG09P5y-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="v4LOdOYvwzwdaaq7sZWW-1" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="100" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PM0M4vsnoGeXTRG09P5y-16" value="1.3DLR提交初期品质案件()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=1.014;exitY=0.872;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" target="PM0M4vsnoGeXTRG09P5y-15" edge="1">
           <mxGeometry x="-0.2147" relative="1" as="geometry">
@@ -773,8 +773,8 @@
         </mxCell>
         <mxCell id="cimZflT9EFZg9U1vJ9ig-4" value="1.1查询当前登录人信息()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" edge="1">
           <mxGeometry x="-0.2701" relative="1" as="geometry">
-            <mxPoint x="140" y="120" as="sourcePoint" />
-            <mxPoint x="570" y="120" as="targetPoint" />
+            <mxPoint x="140" y="110" as="sourcePoint" />
+            <mxPoint x="570" y="110" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -809,7 +809,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wm50_fYVktlSQ3ZMZoDw-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
-          <mxGeometry x="565" y="280" width="10" height="90" as="geometry" />
+          <mxGeometry x="565" y="270" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wm50_fYVktlSQ3ZMZoDw-1" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1.136;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -819,13 +819,13 @@
         </mxCell>
         <mxCell id="wm50_fYVktlSQ3ZMZoDw-2" value="1.2查询案件相关信息()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=0.99;exitY=0.227;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" edge="1">
           <mxGeometry x="-0.2701" relative="1" as="geometry">
-            <mxPoint x="144.9000000000001" y="279.88" as="sourcePoint" />
-            <mxPoint x="570" y="280" as="targetPoint" />
+            <mxPoint x="144.9000000000001" y="269.88" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wm50_fYVktlSQ3ZMZoDw-4" value="通过填写的VIN码去查询车主车辆和工单数据" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#f8cecc;strokeColor=#b85450;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
-          <mxGeometry x="200" y="290" width="250" height="30" as="geometry" />
+          <mxGeometry x="200" y="274" width="250" height="16" as="geometry" />
         </mxCell>
         <mxCell id="wm50_fYVktlSQ3ZMZoDw-7" value="创建时可保存为待提交，也可直接创建为待处理" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=6;fillColor=#f8cecc;strokeColor=#b85450;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
           <mxGeometry x="610" y="420" width="140" height="30" as="geometry" />
@@ -836,11 +836,11 @@
             <mxPoint x="460" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HQGFpXCMx2BnwXct7BJg-0" value="支援案件时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=20;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
+        <mxCell id="HQGFpXCMx2BnwXct7BJg-0" value="支援案件-创建案件时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=20;" parent="3KsvZ3Zjyeb4FS8-YLfH-1" vertex="1">
           <mxGeometry x="10" y="10" width="750" height="550" as="geometry" />
         </mxCell>
         <mxCell id="m1u2vFUH0kTOy0G4Oiil-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
-          <mxGeometry x="135" y="279" width="10" height="100" as="geometry" />
+          <mxGeometry x="135" y="260" width="10" height="119" as="geometry" />
         </mxCell>
         <mxCell id="m1u2vFUH0kTOy0G4Oiil-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="3KsvZ3Zjyeb4FS8-YLfH-1">
           <mxGeometry x="135" y="440" width="10" height="100" as="geometry" />
@@ -1228,7 +1228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mCyl_S2gJDyHLskixE1J" name="支援案件时序2">
-    <mxGraphModel dx="1597" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GIwkuL3oVtTXADQ6O_0Z-0" />
         <mxCell id="GIwkuL3oVtTXADQ6O_0Z-1" parent="GIwkuL3oVtTXADQ6O_0Z-0" />
