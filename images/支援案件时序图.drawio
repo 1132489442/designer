@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T09:38:07.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="w5GqaYJnFNmUQAJ5uy5_" version="16.2.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-13T09:52:00.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="WKo0V4f7Y38kF8Cip6LD" version="16.2.6" type="github" pages="6">
   <diagram id="_YCu5cpETtYEuYcNfKPj" name="支援案件聚合根">
     <mxGraphModel dx="1038" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -849,7 +849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LYEgLS30nbNGD8WOdM2V" name="支援行为设计">
-    <mxGraphModel dx="2714" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1359" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-0" />
         <mxCell id="JQ8r1UF5ZiwTAOrdYPKe-1" parent="JQ8r1UF5ZiwTAOrdYPKe-0" />
@@ -1079,7 +1079,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JI8xAL2IyOrE5K6PgEnA-0" value="4.8.3.1支援案件创建" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=15;" parent="JQ8r1UF5ZiwTAOrdYPKe-1" vertex="1">
+        <mxCell id="JI8xAL2IyOrE5K6PgEnA-0" value="支援案件创建行为图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=15;" parent="JQ8r1UF5ZiwTAOrdYPKe-1" vertex="1">
           <mxGeometry x="-430" y="10" width="890" height="830" as="geometry" />
         </mxCell>
         <mxCell id="5I2MjlItvlEJaq-T8LSL-2" value="1.1.1.2.1查询用户和经销店信息()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=1.069;exitY=0.171;exitDx=0;exitDy=0;exitPerimeter=0;" parent="JQ8r1UF5ZiwTAOrdYPKe-1" edge="1">
@@ -1221,7 +1221,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="flX_IiHUoNj-kRrY8gO8-25" value="4.8.3.2支援案件审核时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=170;height=20;" parent="flX_IiHUoNj-kRrY8gO8-1" vertex="1">
+        <mxCell id="flX_IiHUoNj-kRrY8gO8-25" value="支援案件审核案件行为图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=170;height=20;" parent="flX_IiHUoNj-kRrY8gO8-1" vertex="1">
           <mxGeometry x="-190" y="900" width="1010" height="530" as="geometry" />
         </mxCell>
       </root>
@@ -1348,7 +1348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GIwkuL3oVtTXADQ6O_0Z-50" value="支援案件-FTE处理案件时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=170;height=20;" vertex="1" parent="GIwkuL3oVtTXADQ6O_0Z-1">
-          <mxGeometry x="80" y="10" width="740" height="570" as="geometry" />
+          <mxGeometry x="50" y="10" width="770" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
