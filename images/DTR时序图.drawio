@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T10:08:08.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JOEFULBF5EeipJ3hKfrH" version="16.2.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-14T05:33:26.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="8jWh_CLFeVXx3PVHMVmU" version="16.2.6" type="github" pages="6">
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR时序图">
-    <mxGraphModel dx="1298" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IoVDs216V9Fv6QdhzG9g-0" />
         <mxCell id="IoVDs216V9Fv6QdhzG9g-1" parent="IoVDs216V9Fv6QdhzG9g-0" />
@@ -93,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RPBsQV_w16bTpnQNkWs2-3" value="1.4经销商提交DTR案件()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=0.844;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="IoVDs216V9Fv6QdhzG9g-1" target="RPBsQV_w16bTpnQNkWs2-0" edge="1" source="G4X2dpMiwodD4Q2TWgMe-2">
+        <mxCell id="RPBsQV_w16bTpnQNkWs2-3" value="1.4经销商提交DTR案件()" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;exitX=0.844;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="IoVDs216V9Fv6QdhzG9g-1" source="G4X2dpMiwodD4Q2TWgMe-2" target="RPBsQV_w16bTpnQNkWs2-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135.0000000000001" y="525" as="sourcePoint" />
           </mxGeometry>
@@ -163,13 +163,13 @@
         <mxCell id="9p5YEqd-RMbACSkKxZzz-20" value="DTR提交流程时序图" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FFFFFF;width=120;height=20;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
           <mxGeometry x="50" y="50" width="740" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="G4X2dpMiwodD4Q2TWgMe-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+        <mxCell id="G4X2dpMiwodD4Q2TWgMe-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
           <mxGeometry x="125" y="280" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="G4X2dpMiwodD4Q2TWgMe-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+        <mxCell id="G4X2dpMiwodD4Q2TWgMe-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
           <mxGeometry x="125" y="425" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="G4X2dpMiwodD4Q2TWgMe-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+        <mxCell id="G4X2dpMiwodD4Q2TWgMe-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="IoVDs216V9Fv6QdhzG9g-1" vertex="1">
           <mxGeometry x="125" y="520" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
@@ -938,7 +938,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DHomSAgZYFc8Woehfo28" name="DTR行为设计-创建">
-    <mxGraphModel dx="1493" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="c0toAD09NTmbXhDHQDAE-0" />
         <mxCell id="c0toAD09NTmbXhDHQDAE-1" parent="c0toAD09NTmbXhDHQDAE-0" />
@@ -1259,20 +1259,20 @@
         <mxCell id="xQ6-6reTaj7qULT5EJYU-15" value="通过用户填入零件号获取" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="c0toAD09NTmbXhDHQDAE-1" vertex="1">
           <mxGeometry x="70" y="730" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jUIRO2CNmEmCoxx2yoNt-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="c0toAD09NTmbXhDHQDAE-1">
+        <mxCell id="jUIRO2CNmEmCoxx2yoNt-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="c0toAD09NTmbXhDHQDAE-1" vertex="1">
           <mxGeometry x="31" y="490" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="jUIRO2CNmEmCoxx2yoNt-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="c0toAD09NTmbXhDHQDAE-1">
+        <mxCell id="jUIRO2CNmEmCoxx2yoNt-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="c0toAD09NTmbXhDHQDAE-1" vertex="1">
           <mxGeometry x="31" y="720" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="jUIRO2CNmEmCoxx2yoNt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="c0toAD09NTmbXhDHQDAE-1">
+        <mxCell id="jUIRO2CNmEmCoxx2yoNt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="c0toAD09NTmbXhDHQDAE-1" vertex="1">
           <mxGeometry x="31" y="940" width="10" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="fkflmLDmWeQTWEFxLvF7" name="DTR事件设计">
-    <mxGraphModel dx="2476" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="byF3ja4QP20CqKO95A7Z-0" />
         <mxCell id="byF3ja4QP20CqKO95A7Z-1" parent="byF3ja4QP20CqKO95A7Z-0" />
@@ -1308,7 +1308,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OIov9YBKo8PLPTh2JqFb-1" value="已退回" style="html=1;" parent="byF3ja4QP20CqKO95A7Z-1" vertex="1">
-          <mxGeometry x="250" y="710" width="110" height="50" as="geometry" />
+          <mxGeometry x="310" y="710" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OIov9YBKo8PLPTh2JqFb-2" value="已暂存" style="html=1;" parent="byF3ja4QP20CqKO95A7Z-1" vertex="1">
           <mxGeometry x="250" y="580" width="110" height="50" as="geometry" />
@@ -1339,10 +1339,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OIov9YBKo8PLPTh2JqFb-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="byF3ja4QP20CqKO95A7Z-1" source="TQGcots3BJuFf8Gh_aUD-55" target="OIov9YBKo8PLPTh2JqFb-1" edge="1">
+        <mxCell id="OIov9YBKo8PLPTh2JqFb-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="byF3ja4QP20CqKO95A7Z-1" source="TQGcots3BJuFf8Gh_aUD-55" target="OIov9YBKo8PLPTh2JqFb-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="710" as="sourcePoint" />
             <mxPoint x="490" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kNIC1Mr8RzVGclgIt1jX-0" value="退回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OIov9YBKo8PLPTh2JqFb-7">
+          <mxGeometry x="-0.1223" y="3" relative="1" as="geometry">
+            <mxPoint x="-4" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OIov9YBKo8PLPTh2JqFb-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.631;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="byF3ja4QP20CqKO95A7Z-1" source="OIov9YBKo8PLPTh2JqFb-1" edge="1">
@@ -1387,7 +1392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UCy1moWY3_ZsBP-nnXBJ" name="DTR行为设计-处理">
-    <mxGraphModel dx="2903" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0OKduR3dPHxxESPNn2Zo-0" />
         <mxCell id="0OKduR3dPHxxESPNn2Zo-1" parent="0OKduR3dPHxxESPNn2Zo-0" />
