@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T09:01:22.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="eAJAxpz-aCo7APWi7fTZ" version="16.4.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-01-29T09:02:26.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ETsyDIHC8NvRp_YhZIQp" version="16.4.7" type="github" pages="8">
   <diagram id="q1aSp5IROTwQlDtECgx3" name="DTR时序图2">
     <mxGraphModel dx="1806" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1684,7 +1684,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cKsRXHx9oW5TLlW4O9Td" name="DTR核心流程">
-    <mxGraphModel dx="769" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2258" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IoVDs216V9Fv6QdhzG9g-0" />
         <mxCell id="IoVDs216V9Fv6QdhzG9g-1" parent="IoVDs216V9Fv6QdhzG9g-0" />
@@ -1982,7 +1982,7 @@
         <mxCell id="DCrZAj2gGpeSV6zYX22R-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
           <mxGeometry x="545" y="1240" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DCrZAj2gGpeSV6zYX22R-14" value="5.1.1更新议案&lt;br&gt;持久化" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;endSize=8;exitX=0.999;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IoVDs216V9Fv6QdhzG9g-1" source="DCrZAj2gGpeSV6zYX22R-12" target="DCrZAj2gGpeSV6zYX22R-13">
+        <mxCell id="DCrZAj2gGpeSV6zYX22R-14" value="5.1.1更新议案.建立议案和DTR关联关系&lt;br&gt;持久化" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;endSize=8;exitX=0.999;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="IoVDs216V9Fv6QdhzG9g-1" source="DCrZAj2gGpeSV6zYX22R-12" target="DCrZAj2gGpeSV6zYX22R-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="1140" as="sourcePoint" />
             <Array as="points">
@@ -2097,9 +2097,6 @@
         <mxCell id="DCrZAj2gGpeSV6zYX22R-50" value="【议案已经关联DTR且DTR状态已通过】" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
           <mxGeometry x="675" y="1640" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DCrZAj2gGpeSV6zYX22R-51" value="DTR核心流程" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FFFFFF;width=90;height=20;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
-          <mxGeometry x="170" y="50" width="880" height="1680" as="geometry" />
-        </mxCell>
         <mxCell id="DCrZAj2gGpeSV6zYX22R-53" value="1.I/F接口 实时获取服务工单信息()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;endSize=8;" edge="1" parent="IoVDs216V9Fv6QdhzG9g-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="408.5" y="190" as="sourcePoint" />
@@ -2112,37 +2109,8 @@
             <mxPoint x="400" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="DntdpbeB4cw5fCQyTXw5" name="品质分析核心流程">
-    <mxGraphModel dx="3407" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="ePY12dbR39ImDmj2bUCB-0" />
-        <mxCell id="ePY12dbR39ImDmj2bUCB-1" parent="ePY12dbR39ImDmj2bUCB-0" />
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-0" value="DTR业务聚合-服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="350" y="80" width="106" height="890" as="geometry" />
-        </mxCell>
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-5" value="DTR领域-服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="490" y="80" width="100" height="890" as="geometry" />
-        </mxCell>
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-9" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="220" y="80" width="20" height="890" as="geometry" />
-        </mxCell>
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-11" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#FFFFFF;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="290" y="80" width="20" height="890" as="geometry" />
-        </mxCell>
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-14" value="【EDER】" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="195" y="120" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;【经销商】&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="270" y="116" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-16" value="服务模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="620" y="80" width="100" height="890" as="geometry" />
-        </mxCell>
-        <mxCell id="s3V8cl9zBFUynw0sJvZj-52" value="DTR核心流程" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FFFFFF;width=80;height=30;" vertex="1" parent="ePY12dbR39ImDmj2bUCB-1">
-          <mxGeometry x="-450" y="50" width="540" height="940" as="geometry" />
+        <mxCell id="hmuK18LCoUd6wUlpoOo6-0" value="DTR核心流程" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#FFFFFF;width=90;height=20;" vertex="1" parent="IoVDs216V9Fv6QdhzG9g-1">
+          <mxGeometry x="190" y="50" width="860" height="1680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
