@@ -1,9 +1,744 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T04:01:11.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.1" etag="-F4yHiidFGHgTc-O1HoN" type="github">
-  <diagram name="第 1 页" id="jKh3BtOudFmESNfcLC-l">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-04-09T02:40:09.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZegnhtVYYwiLFq6pfCuy" version="24.2.2" type="github" pages="2">
+  <diagram id="NkuE2nHLbZGV6nsVPRtl" name="第 1 页">
+    <mxGraphModel dx="3305" dy="2502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k52oZoPbwoNnuqS357Ps-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="350" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-9" value="事件&lt;br&gt;Event" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="390" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-10" value="命令&lt;br&gt;Command" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="390" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-11" value="外部系统&lt;br&gt;External &lt;br&gt;System" style="whiteSpace=wrap;html=1;fillColor=#FFCDD2;" parent="1" vertex="1">
+          <mxGeometry x="540" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-12" value="规则&lt;br&gt;Rule" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" parent="1" vertex="1">
+          <mxGeometry x="390" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-13" value="备注&lt;br&gt;Remark" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;" parent="1" vertex="1">
+          <mxGeometry x="390" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-14" value="定时任务&lt;br&gt;Job" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99D47C;" parent="1" vertex="1">
+          <mxGeometry x="540" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-15" value="角色&lt;br&gt;Actor" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="390" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-18" value="判断" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="550" y="575" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k52oZoPbwoNnuqS357Ps-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1. 定义统一语言&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;1 操作角色清晰正确，&lt;br&gt;&amp;nbsp; &amp;nbsp;例如：销售店零件库管员&lt;br&gt;&lt;br&gt;2 事件指令清晰&lt;br&gt;&amp;nbsp; &amp;nbsp;指令用 动词+名词式样&lt;br&gt;&amp;nbsp; &amp;nbsp; 例如：录入订单&lt;br&gt;&lt;br&gt;3 事件命名词用已动词式样&lt;br&gt;&amp;nbsp; &amp;nbsp; 例如：订单已录入&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2. 定义统一语言&lt;/font&gt;&lt;/b&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="320" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-1" value="QA人员或其他厂端人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="910" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-2" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-3" value="QA人员或其他厂端人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-5" value="新增不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="910" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-6" value="全部退回不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-7" value="删除不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-8" target="6Wc-AZuVBCzgzBZjmpfy-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-8" value="不回收零件待审核" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="910" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-9" target="6Wc-AZuVBCzgzBZjmpfy-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-9" value="不回收零件已全部退回" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-9" target="6Wc-AZuVBCzgzBZjmpfy-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="520" />
+              <mxPoint x="1210" y="580" />
+              <mxPoint x="1370" y="580" />
+              <mxPoint x="1370" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-10" value="不回收零件已删除" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1250" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-11" value="校验不回收零件编号唯一性" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" parent="1" vertex="1">
+          <mxGeometry x="940" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-17" value="QA人员或其他厂端人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-18" value="重新提交不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-19" target="6Wc-AZuVBCzgzBZjmpfy-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-19" value="不回收零件待审核" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-21" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-22" value="全部通过不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-23" value="不回收零件已全部通过" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-25" value="全部退回和部分退回逻辑一致。都可将退回部分删除，或者编辑后重新提交" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="550" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="-20" width="1420" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-29" value="&lt;b style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;不回收零件单&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=28;" parent="1" vertex="1">
+          <mxGeometry x="850" y="-10" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-31" value="QA人员或其他厂端人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="2609" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-32" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="2779" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-33" value="QA人员或其他厂端人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="2949" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-34" value="新增指定回收委托" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2609" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-35" value="全部退回指定回收委托" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2779" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-36" value="删除指定回收委托" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2949" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-38" target="6Wc-AZuVBCzgzBZjmpfy-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-38" value="指定回收委托已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="2609" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-40" target="6Wc-AZuVBCzgzBZjmpfy-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2910" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-40" value="指定回收委托已全部退回" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="2779" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-40" target="6Wc-AZuVBCzgzBZjmpfy-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2909" y="520" />
+              <mxPoint x="2909" y="580" />
+              <mxPoint x="3069" y="580" />
+              <mxPoint x="3069" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-42" value="指定回收委托已删除" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="2949" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-43" value="1）DTR对应的维修日期超过60天，不允许提交；&lt;br&gt;2）该DTR关联的工单已下发旧件回收通知，不可提交。&lt;br&gt;3）DTR主因零件号为空，不允许提交。&lt;br&gt;4）该DTR对应的主因零件存在在直送供应商列表中不允许提交。&lt;br&gt;5）DTR不存在，不可提交。&lt;br&gt;6）DTR对应的工单已存在回收委托”，不可提交。&lt;br&gt;7）DTR对应的工单状态为已作废不可提交。" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2553.5" y="540" width="191" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-44" value="QA人员或其他厂端人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="3109" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-45" value="重新提交指定回收委托" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3109" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-47" target="6Wc-AZuVBCzgzBZjmpfy-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-47" value="指定回收委托待审核" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3109" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-48" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="3279" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-49" value="全部通过指定回收委托" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3279" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3318.7368421052633" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-50" value="指定回收委托已全部通过" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3279" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-51" value="全部退回和部分退回逻辑一致。都可将退回部分删除，或者编辑后重新提交。通过的部分下发审核零件回收主单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;" parent="1" vertex="1">
+          <mxGeometry x="2790" y="550" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2359" y="-20" width="1581" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-53" value="&lt;b&gt;指定回收委托&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=28;" parent="1" vertex="1">
+          <mxGeometry x="2369" y="-10" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-54" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-55" value="新增指定回收委托" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-56" target="OLl_IKrEM9eBGBM9zpbV-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810.0000000000002" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3480" y="761" />
+              <mxPoint x="780" y="761" />
+            </Array>
+            <mxPoint x="3240.72" y="560.96" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-56" value="指定回收委托已全部通过" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-57" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;1）DTR对应的维修日期（取值：保修旧件管理维护的维修日期）是否在60天内，若超过60天，则提醒“该DTR已超过60天零件保管期”并且背景红色标记，但允许提交。2）该DTR关联的工单是否已下发旧件回收通知，若已下发则提醒“该DTR关联的工单已旧件回收”，且不可提交。3）DTR是否无主因零件号，若主因零件号为空，则提醒“该DTR无零件更换”，但允许提交。&lt;br&gt;4）校验该DTR对应的主因零件是否存在在直送供应商列表中，若有则提醒“该DTR主因零件属于直送供应商零件”，但允许提交。&lt;br&gt;5）校验DTR是否存在，若不存在则提醒“该DTR不存在/DTR未通过”，且不可提交。&lt;br&gt;6）校验DTR对应的工单状态是否为已作废（工单已取消状态），若已作废，则提醒“工单已作废，无零件回收”，且不可提交。&lt;br&gt;7）校验DTR关联的工单是否已存在于新增指定回收列表（未下发），若是则提醒“该DTR对应的工单已存在回收委托”，且不可提交。&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" parent="1" vertex="1">
+          <mxGeometry x="3550" y="200" width="301" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-58" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-55" target="6Wc-AZuVBCzgzBZjmpfy-57" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3150" y="400" as="sourcePoint" />
+            <mxPoint x="3200" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-59" value="依赖项：&lt;br&gt;1.旧件管理&lt;br&gt;2.DTR主信息&lt;br&gt;3.售后工单&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;align=left;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="3790" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-60" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-61" value="维护直送供应商信息" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-62" value="直送供应商信息已维护" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="2430" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-63" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-64" value="新增不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-65" value="不回收零件已全部通过" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-66" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1910" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-67" value="编辑不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1910" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-68" value="不回收零件已修改" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1910" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-70" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-71" value="删除不回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-72" value="不回收零件已删除" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-78" value="如果指定回收的类型是一般回收件，此时的审核人员是EDER科室管理员角色负责，其他EDER人员不可以审核。如果是紧急件，QA提交的就交给对应的EDER审核，EDER提交的默认全部审核通过" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA919A;strokeColor=#A50040;fontColor=#171717;gradientColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="4010" y="350" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.003;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-52" target="6Wc-AZuVBCzgzBZjmpfy-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3330" y="520" as="sourcePoint" />
+            <mxPoint x="3380" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-80" value="EDER管理员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-81" target="6Wc-AZuVBCzgzBZjmpfy-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-81" value="导入一般件回收清单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-82" target="6Wc-AZuVBCzgzBZjmpfy-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="1280" />
+              <mxPoint x="1490" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-82" value="零件回收主单待下发" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-86" value="定时任务&lt;div&gt;job&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#99D47C;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-87" value="编辑零件回收主单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-88" target="6Wc-AZuVBCzgzBZjmpfy-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="1280" />
+              <mxPoint x="1660" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-88" value="零件回收主单&lt;br&gt;待寄送" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-89" value="DLR端" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-90" target="6Wc-AZuVBCzgzBZjmpfy-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-90" value="寄出回收零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-91" value="零件回收主单&lt;br&gt;已终止" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-93" value="更新回收单物流状态" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2300" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-94" value="零件回收主单&lt;br&gt;已签收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="2300" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-98" value="EDER科室人员" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-134" target="6Wc-AZuVBCzgzBZjmpfy-86" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="1280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="1280" />
+              <mxPoint x="1180" y="1360" />
+              <mxPoint x="1490" y="1360" />
+              <mxPoint x="1490" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-108" target="6Wc-AZuVBCzgzBZjmpfy-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-108" target="6Wc-AZuVBCzgzBZjmpfy-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-108" value="工单是否作废" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="1150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-110" target="6Wc-AZuVBCzgzBZjmpfy-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-110" value="零件回收主单&lt;br&gt;已寄送" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-113" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-114" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-115" value="外部系统&lt;br&gt;好来运物流" style="whiteSpace=wrap;html=1;fillColor=#FFCDD2;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-116" value="更新回收单物流状态" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-117" target="6Wc-AZuVBCzgzBZjmpfy-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-117" value="零件回收主单&lt;br&gt;已提货" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-118" value="外部系统&lt;br&gt;好来运物流" style="whiteSpace=wrap;html=1;fillColor=#FFCDD2;" parent="1" vertex="1">
+          <mxGeometry x="2134" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-119" value="更新回收单物流状态" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2134" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-120" value="零件回收主单&lt;br&gt;已到达白云总仓" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="2134" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.013;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-110" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2301.0399999999995" y="872.7999999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1960" y="1280" />
+              <mxPoint x="1960" y="1380" />
+              <mxPoint x="2260" y="1380" />
+              <mxPoint x="2260" y="873" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-124" value="外部系统&lt;br&gt;MQMS" style="whiteSpace=wrap;html=1;fillColor=#FFCDD2;" parent="1" vertex="1">
+          <mxGeometry x="2300" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-125" target="6Wc-AZuVBCzgzBZjmpfy-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-125" target="6Wc-AZuVBCzgzBZjmpfy-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-125" value="是否供应商直送件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1145" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-128" value="零件回收主单待供应商自行回收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-130" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-131" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-133" target="6Wc-AZuVBCzgzBZjmpfy-137" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-133" value="新增零件回收主单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-134" value="零件回收主单待下发" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-137" target="6Wc-AZuVBCzgzBZjmpfy-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-137" target="6Wc-AZuVBCzgzBZjmpfy-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-137" value="是否供应商直送件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="1145" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-138" value="零件回收主单待供应商自行回收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-139" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-140" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-142" value="零件回收主单生成规则：&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;根据DTR信息获取对应的工单号，&lt;br&gt;1.判断工单类型是否为“一般w”工单，若是则将该DTR对应的工单号及工单下所有零件号（剔除油脂类和非纯牌零件）下发零件回收，若不是“一般w”类型工单则将DTR号和对应的主因零件号下发零件回收；&lt;br&gt;2.若DTR没有对应的工单信息时，直接将DTR号和对应的主因零件号下发回收通知。&lt;br&gt;3.若为初期品质案件DTR有关联工单则将关联的工单下所有零件号（剔除油脂类和非纯牌零件）进行下发零件回收和初期品质案件DTR的主因件（去重）也下发零件回收，&lt;br&gt;若无关联则需将DTR以及店端在初期品质案件维护维修完成时间时填写的旧件保管信息下的所有零件号或主因零件号进行下发零件回收通知。&lt;br&gt;以上类型都需要去重后发零件回收通知&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" parent="1" vertex="1">
+          <mxGeometry x="430" y="850" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-143" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.996;exitY=0.36;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-142" target="6Wc-AZuVBCzgzBZjmpfy-133" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1250" y="1140" as="sourcePoint" />
+            <mxPoint x="1300" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-144" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.996;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-142" target="6Wc-AZuVBCzgzBZjmpfy-81" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="959" y="964" as="sourcePoint" />
+            <mxPoint x="1050" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-145" value="定时任务规则：&lt;br&gt;1.紧急件每日下发14点，将DTR审核通过为紧急回收件的下发。&lt;br&gt;2.一般件的需要EDER管理员导入一般件回收清单后当日晚上12点下发生成回收单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1410" y="910" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-146" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="370" y="750" width="2350" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-147" value="&lt;b&gt;零件回收主单&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=28;" parent="1" vertex="1">
+          <mxGeometry x="430" y="750" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-148" value="外部系统更新状态时，按照最快的节点展示" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;fontStyle=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2369" y="910" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-149" value="创建零件回收异常单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3170" y="1087" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-150" target="6Wc-AZuVBCzgzBZjmpfy-157" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3310" y="1327" />
+              <mxPoint x="3310" y="1380" />
+              <mxPoint x="3510" y="1380" />
+              <mxPoint x="3510" y="927" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-150" value="零件回收异常单已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3170" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-151" value="定时任务&lt;br&gt;Job" style="whiteSpace=wrap;html=1;fillColor=#99D47C;" parent="1" vertex="1">
+          <mxGeometry x="3170" y="887" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-152" value="创建零件回收异常单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3349" y="1087" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-153" target="6Wc-AZuVBCzgzBZjmpfy-157" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3510" y="1327" />
+              <mxPoint x="3510" y="927" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-153" value="零件回收异常单已创建" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3349" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-154" value="外部系统&lt;br&gt;MQMS" style="whiteSpace=wrap;html=1;fillColor=#FFCDD2;" parent="1" vertex="1">
+          <mxGeometry x="3349" y="887" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-155" target="6Wc-AZuVBCzgzBZjmpfy-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-155" value="反馈异常信息" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3760" y="1087" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-156" value="零件回收异常单已完结" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3577" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-157" value="外部系统&lt;br&gt;好来运物流" style="whiteSpace=wrap;html=1;fillColor=#FFCDD2;" parent="1" vertex="1">
+          <mxGeometry x="3760" y="887" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-158" target="6Wc-AZuVBCzgzBZjmpfy-160" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-158" target="6Wc-AZuVBCzgzBZjmpfy-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-158" target="6Wc-AZuVBCzgzBZjmpfy-166" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3800" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-158" value="判定责任方" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="3760" y="1188" width="80" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-160" target="6Wc-AZuVBCzgzBZjmpfy-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-160" value="零件回收异常单待店端反馈" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3940" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-163" value="供应商自己责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3565" y="1228" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-164" value="店端责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3950" y="1228" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-166" target="6Wc-AZuVBCzgzBZjmpfy-182" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3880" y="1327" />
+              <mxPoint x="3880" y="1420" />
+              <mxPoint x="4470" y="1420" />
+              <mxPoint x="4470" y="927" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-166" value="零件回收异常单待EDER审核" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="3760" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-167" value="其他原因" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3760" y="1240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-168" target="6Wc-AZuVBCzgzBZjmpfy-172" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-168" value="反馈异常信息" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="4250" y="1087" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-169" value="零件回收异常单已结束" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="4180" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-170" value="DLR端" style="whiteSpace=wrap;html=1;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="4250" y="887" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-172" target="6Wc-AZuVBCzgzBZjmpfy-174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-172" target="6Wc-AZuVBCzgzBZjmpfy-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-172" value="是否申述" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="4250" y="1188" width="80" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-174" target="6Wc-AZuVBCzgzBZjmpfy-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-174" value="零件回收异常单待EDER审核" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="4340" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-177" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4190" y="1218" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-178" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4340" y="1218" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-180" value="反馈异常信息" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="4520" y="1087" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-182" value="EDER科室人员" style="whiteSpace=wrap;html=1;fillColor=#FFFABA;" parent="1" vertex="1">
+          <mxGeometry x="4520" y="887" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-186" value="零件回收异常单已结束" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
+          <mxGeometry x="4520" y="1287" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-193" value="紧急件超过7个工作日未签收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" parent="1" vertex="1">
+          <mxGeometry x="3110" y="1138" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-194" value="异常件仅针对于零件回收主单紧急件类型。并且一个回收主单最多只能生成一个超时异常和一个QA发起异常。不可以一个异常重复发起多次" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2977" y="1245" width="122" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-195" value="供应商自己责任:&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;1 无&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;2 好来运-未及时取件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;3 好来源-在途延误&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;4 好来运-到达白云总仓未送&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;5 好来运-零件破损(包装破损，包装不规范)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;6 好来运-零件丢失&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;店端责任:&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;7 DLR-24小时内未及时寄出(无法联系取货，零件在审批中等)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8 DLR-无报告书/未贴标签&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9 DLR-零件丢失&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;10 DLR-包装不规范&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;11 DLR-寄错零件&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;其他责任:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;13 其他-不可控外部因素(疫情防控等详细备注原因)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;align=left;" parent="1" vertex="1">
+          <mxGeometry x="3565" y="1360" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-196" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2790" y="870" width="2040" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-197" value="&lt;b&gt;零件回收异常单&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=28;" parent="1" vertex="1">
+          <mxGeometry x="2800" y="887" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-198" value="依赖项：&lt;br&gt;1.旧件管理&lt;br&gt;2.DTR主信息&lt;br&gt;3.售后工单&lt;div&gt;4.回收委托单&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;align=left;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="2530" y="790" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-199" value="依赖项：&lt;br&gt;1.零件回收主单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;align=left;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="4676" y="885" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbHjMBo046Qy3-V_QKn2-1" value="1.指定回收单下发生成零件回收主单时，排除掉已下发过的数据。&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.仅审核状态为已通过的指定回收的明细数据才可下发生成零件回收主单&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" parent="1" vertex="1">
+          <mxGeometry x="2979" y="730" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZbHjMBo046Qy3-V_QKn2-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="ZbHjMBo046Qy3-V_QKn2-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2770" y="760" as="sourcePoint" />
+            <mxPoint x="1150" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZbHjMBo046Qy3-V_QKn2-3" value="不回收零件单为基础配置项，状态流转和变更不影响其他聚合根。&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;仅提供给零件回收主单导出时过滤掉对应的不回收零件数据&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="-60" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-1" value="校验不回收零件编号唯一性" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="334" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-2" value="仅可删除被退回的零件" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-3" value="外部系统，更新物流状态时，对应的就是零件回收主单的状态. &lt;br&gt;零件回收主单状态明细如下: 待下发, 已终止,待供应商自行回收, 待寄送, 已寄送, 已提货, 已到达白云总仓, 已签收.&lt;br&gt;物流状态: 待寄送, 已寄送, 已提货, 已到达白云总仓, 已签收,&lt;br&gt;&lt;br&gt;取最快的物流节点更新至零件回收主单状态中。如: 零件回收主单状态是已寄送,&amp;nbsp; 此时通过外部接口先接收到MQMS传来的已签收，那么零件回收主单状态变更为已签收.后续如果好来运推送状态，则不允许再更新零件回收主单状态为已提货或者已达白云总仓" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="1145" width="225" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=-0.015;exitY=0.395;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-3" target="6Wc-AZuVBCzgzBZjmpfy-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2270" y="1180" as="sourcePoint" />
+            <mxPoint x="2330" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=-0.004;exitY=0.391;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.626;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-3" target="6Wc-AZuVBCzgzBZjmpfy-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2437" y="1244" as="sourcePoint" />
+            <mxPoint x="2070" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=-0.008;exitY=0.398;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-3" target="6Wc-AZuVBCzgzBZjmpfy-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2447" y="1254" as="sourcePoint" />
+            <mxPoint x="2080" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-7" value="指定回收审核通过" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFABA;" vertex="1" parent="1">
+          <mxGeometry x="740" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-10" target="OLl_IKrEM9eBGBM9zpbV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-10" value="新增零件回收主单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B1D2F6;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-11" target="6Wc-AZuVBCzgzBZjmpfy-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="1280" />
+              <mxPoint x="910" y="1360" />
+              <mxPoint x="1490" y="1360" />
+              <mxPoint x="1490" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-11" value="零件回收主单待下发" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-14" target="OLl_IKrEM9eBGBM9zpbV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-14" target="OLl_IKrEM9eBGBM9zpbV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-14" value="是否供应商直送件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1145" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-15" value="零件回收主单待供应商自行回收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1178" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1.005;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OLl_IKrEM9eBGBM9zpbV-10" target="6Wc-AZuVBCzgzBZjmpfy-142">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="990" as="sourcePoint" />
+            <mxPoint x="930" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3171" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1660" y="1280" />
+              <mxPoint x="1660" y="1470" />
+              <mxPoint x="2910" y="1470" />
+              <mxPoint x="2910" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLl_IKrEM9eBGBM9zpbV-24" value="待寄送紧急件，超时未寄出，生成零件回收异常单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="1450" width="79" height="79" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Inym4LZdIXMLzvBmwsr9" name="第 2 页">
+    <mxGraphModel dx="2062" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70YL_li10MkOeTEr2Dk1-1" value="疏忽提醒场景" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="1000" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="70YL_li10MkOeTEr2Dk1-2" value="请求疏忽指令" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="850" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="70YL_li10MkOeTEr2Dk1-3" value="疏忽信息" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="850" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
