@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T08:49:44.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7HH9cPfjsm6vJtzt8za_" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T08:51:36.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QtvKGVfuzln4e4GBz5v2" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2822" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3221" dy="1245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -128,8 +128,8 @@
         <mxCell id="wVPLwSVuaTRjPJKXqYtX-72" value="已寄送" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wVPLwSVuaTRjPJKXqYtX-82" value="接口同步运单状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="438" width="120" height="30" as="geometry" />
+        <mxCell id="wVPLwSVuaTRjPJKXqYtX-82" value="接口同步状态.&lt;span style=&quot;text-wrap: wrap;&quot;&gt;已提货&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="905" y="438" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wVPLwSVuaTRjPJKXqYtX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -140,8 +140,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wVPLwSVuaTRjPJKXqYtX-84" value="接口同步运单状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="438" width="120" height="30" as="geometry" />
+        <mxCell id="wVPLwSVuaTRjPJKXqYtX-84" value="接口同步状态.已&lt;span style=&quot;text-wrap: wrap;&quot;&gt;到达白云总仓&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="438" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wVPLwSVuaTRjPJKXqYtX-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;curved=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
@@ -155,8 +155,14 @@
         <mxCell id="wVPLwSVuaTRjPJKXqYtX-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wVPLwSVuaTRjPJKXqYtX-46" target="wVPLwSVuaTRjPJKXqYtX-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wVPLwSVuaTRjPJKXqYtX-87" value="接口同步回收单状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="595" y="438" width="130" height="30" as="geometry" />
+        <mxCell id="wVPLwSVuaTRjPJKXqYtX-87" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%8E%A5%E5%8F%A3%E5%90%8C%E6%AD%A5%E7%8A%B6%E6%80%81.%26lt%3Bspan%20style%3D%26quot%3Btext-wrap%3A%20wrap%3B%26quot%3B%26gt%3B%E5%B7%B2%E6%8F%90%E8%B4%A7%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22905%22%20y%3D%22438%22%20width%3D%22130%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="438" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wVPLwSVuaTRjPJKXqYtX-88" value="接口同步状态.已签收" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1415" y="438" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wVPLwSVuaTRjPJKXqYtX-92" value="接口同步状态.&lt;span style=&quot;text-wrap: wrap;&quot;&gt;已寄送&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="595" y="448" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
