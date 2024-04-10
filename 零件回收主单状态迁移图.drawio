@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T11:11:54.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2Z-_pYbffJh9PKuwxYAw" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T11:15:52.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e4f_N0Jf9YIb5SkXFr5P" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1866" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2645" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="wVPLwSVuaTRjPJKXqYtX-130" value="下发生成零件回收&lt;br&gt;1.DTR状态已通过&lt;br&gt;2.DTR回收类型：紧急回收件" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#f8cecc;strokeColor=#b85450;size=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-132.5" y="440" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="wVPLwSVuaTRjPJKXqYtX-131" value="零件回收主单状态取最快的物流状态，例如: 该单状态为已签收，那么不再更新已提货和已到达白云总仓的状态" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="902" y="290" width="638" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
