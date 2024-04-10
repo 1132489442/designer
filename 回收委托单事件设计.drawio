@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T11:03:37.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0m0jGYJYvTFAUFMM_5_m" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T11:08:03.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="T5mLk2XEffxNuzt42t7L" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2342" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2408" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -24,6 +24,15 @@
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsWoBtM9ElnnkDUphN9U-2" target="LsWoBtM9ElnnkDUphN9U-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="860" as="sourcePoint" />
+            <mxPoint x="300" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="860" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;待提交&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="860" width="120" height="60" as="geometry" />
@@ -139,6 +148,18 @@
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-47" value="1.工单作废不可提交&lt;br&gt;2.DTR不存在不可提交&lt;br&gt;3.工单已经存在委托单中，不可提交&lt;br&gt;4.工单存在零件回收主单中，不可提交&lt;br&gt;5.工单存在旧件管理中，不可提交&lt;br&gt;6.工单下的零件去重后下发" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="900" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-49" value="删除委托单中部分明细" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="780" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.354;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.77999999999994" y="809.76" as="sourcePoint" />
+            <mxPoint x="180.22" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180.22" y="810" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
