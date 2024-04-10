@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T10:51:26.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="SFWR9UJODb_gaT2RlQr3" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T10:56:24.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eHM_B5RzcUQRugogvQ4m" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2645" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -92,8 +92,41 @@
         <mxCell id="LsWoBtM9ElnnkDUphN9U-26" value="零件回收主单状态迁移" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1126" y="690" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LsWoBtM9ElnnkDUphN9U-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.322;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsWoBtM9ElnnkDUphN9U-3" target="LsWoBtM9ElnnkDUphN9U-24">
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsWoBtM9ElnnkDUphN9U-3" target="LsWoBtM9ElnnkDUphN9U-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsWoBtM9ElnnkDUphN9U-4" target="LsWoBtM9ElnnkDUphN9U-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="720" as="sourcePoint" />
+            <mxPoint x="1210" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-32" value="事件通知.指定回收.全部通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="956" y="720" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-34" value="事件通知.指定回收.部分通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="830" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-35" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1126" y="930" width="214" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-36" value="DTR" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1183" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-37" value="旧件管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1183" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-39" value="技术支持-领域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1126" y="935" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-40" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="1240" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-41" value="售后工单-领域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1120" y="1240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-43" value="工单主信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1173" y="1315" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
