@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T12:04:46.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_KOs7y9klL8yZC_sySxM" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T12:06:59.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IiXjAEEra7KeevWYAcSb" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1914" dy="2138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,8 +128,17 @@
         <mxCell id="k3RtzrjtE9WO0fGIoLr3-38" value="判定责任方" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1720" y="720" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k3RtzrjtE9WO0fGIoLr3-43" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1410" y="660" width="80" height="100" as="geometry" />
+        <mxCell id="k3RtzrjtE9WO0fGIoLr3-44" value="店端责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1428.5" y="710" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3RtzrjtE9WO0fGIoLr3-45" value="其他责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1910" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3RtzrjtE9WO0fGIoLr3-46" value="供应商责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1720" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k3RtzrjtE9WO0fGIoLr3-47" value="接口同步. 供应商已反馈" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1685" y="875" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
