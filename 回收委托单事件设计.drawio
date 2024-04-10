@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T10:56:24.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eHM_B5RzcUQRugogvQ4m" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T11:03:37.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0m0jGYJYvTFAUFMM_5_m" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2966" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2342" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsWoBtM9ElnnkDUphN9U-0" target="LsWoBtM9ElnnkDUphN9U-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="630" width="940" height="640" as="geometry" />
         </mxCell>
@@ -108,25 +111,34 @@
           <mxGeometry x="950" y="830" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-35" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1126" y="930" width="214" height="260" as="geometry" />
+          <mxGeometry x="1146" y="930" width="214" height="260" as="geometry" />
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-36" value="DTR" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1183" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1203" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-37" value="旧件管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1183" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="1203" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-39" value="技术支持-领域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1126" y="935" width="130" height="30" as="geometry" />
+          <mxGeometry x="1146" y="935" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-40" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="1240" width="230" height="210" as="geometry" />
+          <mxGeometry x="1140" y="1240" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-41" value="售后工单-领域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1120" y="1240" width="130" height="30" as="geometry" />
+          <mxGeometry x="1140" y="1240" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LsWoBtM9ElnnkDUphN9U-43" value="工单主信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1173" y="1315" width="120" height="60" as="geometry" />
+          <mxGeometry x="1193" y="1315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.689;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LsWoBtM9ElnnkDUphN9U-0" target="LsWoBtM9ElnnkDUphN9U-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-46" value="依赖项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="1078" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LsWoBtM9ElnnkDUphN9U-47" value="1.工单作废不可提交&lt;br&gt;2.DTR不存在不可提交&lt;br&gt;3.工单已经存在委托单中，不可提交&lt;br&gt;4.工单存在零件回收主单中，不可提交&lt;br&gt;5.工单存在旧件管理中，不可提交&lt;br&gt;6.工单下的零件去重后下发" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;size=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="900" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
