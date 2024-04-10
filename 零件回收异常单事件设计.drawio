@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T11:51:23.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="032I9NG22UUjqK63xwEN" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T11:52:21.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7TPUdJGMkvAftHCehxmQ" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1818" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,6 +26,9 @@
           <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k3RtzrjtE9WO0fGIoLr3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3RtzrjtE9WO0fGIoLr3-7" target="k3RtzrjtE9WO0fGIoLr3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3RtzrjtE9WO0fGIoLr3-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3RtzrjtE9WO0fGIoLr3-7" target="k3RtzrjtE9WO0fGIoLr3-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k3RtzrjtE9WO0fGIoLr3-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;待供应商判定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -75,6 +78,9 @@
         </mxCell>
         <mxCell id="k3RtzrjtE9WO0fGIoLr3-28" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;定时任务创建异常单：&lt;br&gt;校验工单是否发起过超时异常，如&lt;br&gt;存在，不再生成&lt;/span&gt;" style="shape=note;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;fillColor=#f8cecc;strokeColor=#b85450;align=left;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="420" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3RtzrjtE9WO0fGIoLr3-30" value="接口同步状态.待供应商判定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="620" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
