@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T03:58:15.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="i2KMr0--LbLC4A3W8J-3" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-16T04:01:59.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fuHVyUNl46wBxtn_tgjX" version="24.2.3" type="github" pages="2">
   <diagram id="NkuE2nHLbZGV6nsVPRtl" name="第 1 页">
-    <mxGraphModel dx="2560" dy="2126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,7 +349,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-108" value="工单是否作废" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1780" y="1150" width="80" height="40" as="geometry" />
+          <mxGeometry x="1780" y="1200" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-110" target="6Wc-AZuVBCzgzBZjmpfy-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -358,10 +358,10 @@
           <mxGeometry x="1850" y="1400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-113" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="1750" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-114" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="1860" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-115" value="外部系统&lt;br&gt;好来运物流" style="whiteSpace=wrap;html=1;fillColor=#FFCDD2;" parent="1" vertex="1">
           <mxGeometry x="1980" y="840" width="80" height="80" as="geometry" />
@@ -405,16 +405,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-125" value="是否供应商直送件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1145" width="80" height="50" as="geometry" />
+          <mxGeometry x="1280" y="1200" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-128" value="零件回收主单待供应商自行回收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-130" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="1240" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-131" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="1360" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6Wc-AZuVBCzgzBZjmpfy-133" target="6Wc-AZuVBCzgzBZjmpfy-137" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -432,16 +432,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-137" value="是否供应商直送件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1145" width="80" height="50" as="geometry" />
+          <mxGeometry x="1000" y="1200" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-138" value="零件回收主单待供应商自行回收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
           <mxGeometry x="930" y="1400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-139" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="960" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-140" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="1080" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-142" value="零件回收主单生成规则：&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;根据DTR信息获取对应的工单号，&lt;br&gt;1.判断工单类型是否为“一般w”工单，若是则将该DTR对应的工单号及工单下所有零件号（剔除油脂类和非纯牌零件）下发零件回收，若不是“一般w”类型工单则将DTR号和对应的主因零件号下发零件回收；&lt;br&gt;2.若DTR没有对应的工单信息时，直接将DTR号和对应的主因零件号下发回收通知。&lt;br&gt;3.若为初期品质案件DTR有关联工单则将关联的工单下所有零件号（剔除油脂类和非纯牌零件）进行下发零件回收和初期品质案件DTR的主因件（去重）也下发零件回收，&lt;br&gt;若无关联则需将DTR以及店端在初期品质案件维护维修完成时间时填写的旧件保管信息下的所有零件号或主因零件号进行下发零件回收通知。&lt;br&gt;以上类型都需要去重后发零件回收通知&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" parent="1" vertex="1">
           <mxGeometry x="430" y="850" width="260" height="260" as="geometry" />
@@ -462,7 +462,7 @@
           <mxGeometry x="1410" y="910" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-146" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="370" y="790" width="2350" height="790" as="geometry" />
+          <mxGeometry x="370" y="790" width="2350" height="800" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-147" value="&lt;b&gt;零件回收主单&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=28;" parent="1" vertex="1">
           <mxGeometry x="380" y="800" width="280" height="70" as="geometry" />
@@ -685,16 +685,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLl_IKrEM9eBGBM9zpbV-14" value="是否供应商直送件" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B1D2F6;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1145" width="80" height="50" as="geometry" />
+          <mxGeometry x="740" y="1200" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="OLl_IKrEM9eBGBM9zpbV-15" value="零件回收主单待供应商自行回收" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
           <mxGeometry x="670" y="1400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OLl_IKrEM9eBGBM9zpbV-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="700" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLl_IKrEM9eBGBM9zpbV-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="820" y="1178" width="40" height="30" as="geometry" />
+          <mxGeometry x="820" y="1238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OLl_IKrEM9eBGBM9zpbV-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1.005;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="OLl_IKrEM9eBGBM9zpbV-10" target="6Wc-AZuVBCzgzBZjmpfy-142" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
