@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T03:48:50.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JtYdJn0x7SWb8ZAKKkns" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-18T01:24:47.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vBwwGbMHwOplLPmYrIy-" version="24.2.5" type="github" pages="2">
   <diagram id="NkuE2nHLbZGV6nsVPRtl" name="第 1 页">
-    <mxGraphModel dx="1792" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2597" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -462,8 +462,8 @@
             <mxPoint x="1050" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-145" value="定时任务规则：&lt;br&gt;1.紧急件每日下发14点，将审核通过为紧急回收件的DTR和待下发的零件回收清单一并下发&lt;br&gt;2.一般件的需要EDER管理员导入一般件回收清单后当日晚上12点下发生成回收单" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="910" width="150" height="150" as="geometry" />
+        <mxCell id="6Wc-AZuVBCzgzBZjmpfy-145" value="定时任务规则：&lt;br&gt;1.紧急件每日下发14点，将审核通过为紧急回收件的DTR和待下发的零件回收清单一并下发&lt;br&gt;2.一般件的需要凌晨12点下发生成回收单（前提条件：EDER管理员有导入一般件清单）&lt;br&gt;&lt;br&gt;下发规则：&lt;br&gt;1.需要判定零件是否属于直送供应商&lt;br&gt;2.判定工单是否作废" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="1098" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="6Wc-AZuVBCzgzBZjmpfy-146" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="790" width="2880" height="820" as="geometry" />
