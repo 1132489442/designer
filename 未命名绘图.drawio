@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T01:25:25.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XjmSkO9bwhKZOoN6ob-D" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-10T06:59:29.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tajfBZOu7aYrf2D5_oDF" version="24.2.5" type="github" pages="2">
   <diagram id="NkuE2nHLbZGV6nsVPRtl" name="第 1 页">
-    <mxGraphModel dx="1818" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1995" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -901,7 +901,7 @@
         <mxCell id="ySfzhjIkyrlIwWnIXRme-60" value="零件回收交接单.已寄出" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F6D643;" parent="1" vertex="1">
           <mxGeometry x="1850" y="2258" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ySfzhjIkyrlIwWnIXRme-66" value="通过工单+零件维度的方式同步状态信息；" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C7A5D3;" parent="1" vertex="1">
+        <mxCell id="ySfzhjIkyrlIwWnIXRme-66" value="通过工单+零件维度的方式同步状态信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C7A5D3;" parent="1" vertex="1">
           <mxGeometry x="1630" y="1654" width="1300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ySfzhjIkyrlIwWnIXRme-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
@@ -1094,6 +1094,12 @@
         </mxCell>
         <mxCell id="ySfzhjIkyrlIwWnIXRme-147" value="品质异常和超时异常流程都一致；每个审核节点的结果都需要实时同步到外部系统" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#C7A5D3;" parent="1" vertex="1">
           <mxGeometry x="4530" y="1680" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq7T7Y6ACYkTBLjDNUsn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Vq7T7Y6ACYkTBLjDNUsn-1" target="ySfzhjIkyrlIwWnIXRme-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq7T7Y6ACYkTBLjDNUsn-1" value="接口同步信息失败：1。告警信息通知开发人员，2.人工手动触发推送" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#EA919A;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1634" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
